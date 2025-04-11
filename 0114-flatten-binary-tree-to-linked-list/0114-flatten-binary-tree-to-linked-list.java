@@ -22,10 +22,11 @@ class Solution {
     public void rec(TreeNode root){
         if(root==null) return;
         TreeNode left=root.left;
+        TreeNode right=root.right;
         prev.right=root;
         prev=root;
         root.left=null;
         rec(left);
-        rec(root.right);
+        rec(right);
     }
 }
