@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Akshayy67/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0783-search-in-a-binary-search-tree](https://github.com/Akshayy67/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -21,4 +22,9 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Akshayy67/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0783-search-in-a-binary-search-tree](https://github.com/Akshayy67/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0783-search-in-a-binary-search-tree](https://github.com/Akshayy67/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
