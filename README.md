@@ -27,4 +27,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0783-search-in-a-binary-search-tree](https://github.com/Akshayy67/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Akshayy67/LeetCode/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Akshayy67/LeetCode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
