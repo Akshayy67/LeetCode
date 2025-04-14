@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Akshayy67/LeetCode/tree/master/0001-two-sum) |
+| [0216-combination-sum-iii](https://github.com/Akshayy67/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0739-daily-temperatures](https://github.com/Akshayy67/LeetCode/tree/master/0739-daily-temperatures) |
 | [1656-count-good-triplets](https://github.com/Akshayy67/LeetCode/tree/master/1656-count-good-triplets) |
 ## Hash Table
@@ -50,4 +51,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/Akshayy67/LeetCode/tree/master/0739-daily-temperatures) |
+## Backtracking
+|  |
+| ------- |
+| [0216-combination-sum-iii](https://github.com/Akshayy67/LeetCode/tree/master/0216-combination-sum-iii) |
 <!---LeetCode Topics End-->
