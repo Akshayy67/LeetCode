@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Akshayy67/LeetCode/tree/master/0001-two-sum) |
+| [1656-count-good-triplets](https://github.com/Akshayy67/LeetCode/tree/master/1656-count-good-triplets) |
 ## Hash Table
 |  |
 | ------- |
@@ -39,4 +40,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Akshayy67/LeetCode/tree/master/0008-string-to-integer-atoi) |
+## Enumeration
+|  |
+| ------- |
+| [1656-count-good-triplets](https://github.com/Akshayy67/LeetCode/tree/master/1656-count-good-triplets) |
 <!---LeetCode Topics End-->
