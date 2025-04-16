@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0216-combination-sum-iii](https://github.com/Akshayy67/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0724-find-pivot-index](https://github.com/Akshayy67/LeetCode/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/Akshayy67/LeetCode/tree/master/0739-daily-temperatures) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Akshayy67/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1656-count-good-triplets](https://github.com/Akshayy67/LeetCode/tree/master/1656-count-good-triplets) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Akshayy67/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/Akshayy67/LeetCode/tree/master/1833-find-the-highest-altitude) |
@@ -101,4 +102,9 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Akshayy67/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Akshayy67/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Akshayy67/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 <!---LeetCode Topics End-->
