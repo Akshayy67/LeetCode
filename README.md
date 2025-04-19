@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0012-integer-to-roman](https://github.com/Akshayy67/LeetCode/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Akshayy67/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0038-count-and-say](https://github.com/Akshayy67/LeetCode/tree/master/0038-count-and-say) |
+| [0214-shortest-palindrome](https://github.com/Akshayy67/LeetCode/tree/master/0214-shortest-palindrome) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Akshayy67/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Enumeration
 |  |
@@ -135,4 +136,16 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/Akshayy67/LeetCode/tree/master/0307-range-sum-query-mutable) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Akshayy67/LeetCode/tree/master/0214-shortest-palindrome) |
+## String Matching
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Akshayy67/LeetCode/tree/master/0214-shortest-palindrome) |
+## Hash Function
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Akshayy67/LeetCode/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
