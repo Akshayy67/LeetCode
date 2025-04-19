@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Akshayy67/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0038-count-and-say](https://github.com/Akshayy67/LeetCode/tree/master/0038-count-and-say) |
 | [0214-shortest-palindrome](https://github.com/Akshayy67/LeetCode/tree/master/0214-shortest-palindrome) |
+| [0459-repeated-substring-pattern](https://github.com/Akshayy67/LeetCode/tree/master/0459-repeated-substring-pattern) |
 | [0812-rotate-string](https://github.com/Akshayy67/LeetCode/tree/master/0812-rotate-string) |
 | [1508-longest-happy-prefix](https://github.com/Akshayy67/LeetCode/tree/master/1508-longest-happy-prefix) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Akshayy67/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Akshayy67/LeetCode/tree/master/0214-shortest-palindrome) |
+| [0459-repeated-substring-pattern](https://github.com/Akshayy67/LeetCode/tree/master/0459-repeated-substring-pattern) |
 | [0812-rotate-string](https://github.com/Akshayy67/LeetCode/tree/master/0812-rotate-string) |
 | [1508-longest-happy-prefix](https://github.com/Akshayy67/LeetCode/tree/master/1508-longest-happy-prefix) |
 ## Hash Function
