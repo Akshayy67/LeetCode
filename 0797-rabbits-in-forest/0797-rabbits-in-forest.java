@@ -6,8 +6,8 @@ class Solution {
         }
         int result=0;
         for(int key:mp.keySet()){
-            if(key==0) result+=mp.get(key);
-            else /*if(mp.get(key)>key+1)*/ result+=(Math.ceil(((double)mp.get(key)/(key+1)*1.0))*(key+1));
+            // if(key==0) result+=mp.get(key);
+            /* else /*if(mp.get(key)>key+1)*/ result+=(Math.ceil(((double)mp.get(key)/(key+1)*1.0))*(key+1));
             // else result+=key+1;
         }
         return result;
