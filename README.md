@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Akshayy67/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0820-find-eventual-safe-states](https://github.com/Akshayy67/LeetCode/tree/master/0820-find-eventual-safe-states) |
 ## Binary Tree
 |  |
 | ------- |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Breadth-First Search
 |  |
 | ------- |
+| [0820-find-eventual-safe-states](https://github.com/Akshayy67/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Akshayy67/LeetCode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 ## Matrix
 |  |
@@ -165,4 +167,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0797-rabbits-in-forest](https://github.com/Akshayy67/LeetCode/tree/master/0797-rabbits-in-forest) |
+## Graph
+|  |
+| ------- |
+| [0820-find-eventual-safe-states](https://github.com/Akshayy67/LeetCode/tree/master/0820-find-eventual-safe-states) |
+## Topological Sort
+|  |
+| ------- |
+| [0820-find-eventual-safe-states](https://github.com/Akshayy67/LeetCode/tree/master/0820-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
