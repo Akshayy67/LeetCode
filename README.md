@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Akshayy67/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0797-rabbits-in-forest](https://github.com/Akshayy67/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [1039-find-the-town-judge](https://github.com/Akshayy67/LeetCode/tree/master/1039-find-the-town-judge) |
+| [1500-count-largest-group](https://github.com/Akshayy67/LeetCode/tree/master/1500-count-largest-group) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Akshayy67/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 ## String
 |  |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0012-integer-to-roman](https://github.com/Akshayy67/LeetCode/tree/master/0012-integer-to-roman) |
 | [0797-rabbits-in-forest](https://github.com/Akshayy67/LeetCode/tree/master/0797-rabbits-in-forest) |
+| [1500-count-largest-group](https://github.com/Akshayy67/LeetCode/tree/master/1500-count-largest-group) |
 ## Prefix Sum
 |  |
 | ------- |
