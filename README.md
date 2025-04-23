@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1656-count-good-triplets](https://github.com/Akshayy67/LeetCode/tree/master/1656-count-good-triplets) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Akshayy67/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/Akshayy67/LeetCode/tree/master/1833-find-the-highest-altitude) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/Akshayy67/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Akshayy67/LeetCode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Akshayy67/LeetCode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Akshayy67/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
