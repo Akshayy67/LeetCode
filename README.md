@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Akshayy67/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Akshayy67/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0801-is-graph-bipartite](https://github.com/Akshayy67/LeetCode/tree/master/0801-is-graph-bipartite) |
+| [0813-all-paths-from-source-to-target](https://github.com/Akshayy67/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
 | [0820-find-eventual-safe-states](https://github.com/Akshayy67/LeetCode/tree/master/0820-find-eventual-safe-states) |
 ## Binary Tree
 |  |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Akshayy67/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0216-combination-sum-iii](https://github.com/Akshayy67/LeetCode/tree/master/0216-combination-sum-iii) |
+| [0813-all-paths-from-source-to-target](https://github.com/Akshayy67/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
 ## Two Pointers
 |  |
 | ------- |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0801-is-graph-bipartite](https://github.com/Akshayy67/LeetCode/tree/master/0801-is-graph-bipartite) |
+| [0813-all-paths-from-source-to-target](https://github.com/Akshayy67/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
 | [0820-find-eventual-safe-states](https://github.com/Akshayy67/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [0895-shortest-path-to-get-all-keys](https://github.com/Akshayy67/LeetCode/tree/master/0895-shortest-path-to-get-all-keys) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Akshayy67/LeetCode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
@@ -196,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0801-is-graph-bipartite](https://github.com/Akshayy67/LeetCode/tree/master/0801-is-graph-bipartite) |
+| [0813-all-paths-from-source-to-target](https://github.com/Akshayy67/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
 | [0820-find-eventual-safe-states](https://github.com/Akshayy67/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [1039-find-the-town-judge](https://github.com/Akshayy67/LeetCode/tree/master/1039-find-the-town-judge) |
 ## Topological Sort
