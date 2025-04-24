@@ -1,16 +1,21 @@
 class Solution {
     public int countCompleteSubarrays(int[] nums) {
-        int count=0;
         Set<Integer> st= new HashSet<>();
         for(int num:nums) st.add(num);
-        int k=st.size();
+        return countDistinctK(nums,st.size())-countDistinctK(nums,st.size()-1);
+    }
+    public int countDistinctK(int[] nums,int k){
+        int count=0;
+        Map<Integer,Integer> mp= new HashMap<>();
+        int j=0;
         for(int i=0;i<nums.length;i++){
-            st=new HashSet<>();
-            for(int j=i;j<nums.length;j++){
-                st.add(nums[j]);
-                if(st.size()==k) count++;
-                if(st.size()>k) break;
+            mp.put(nums[i],mp.getOrDefault(nums[i],0)+1);
+            while(mp.size()>k){
+                mp.put(nums[j],mp.get(nums[j])-1);
+                if(mp.get(nums[j])==0) mp.remove(nums[j]);
+                j++;
             }
+            count+=(i-j+1);
         }
         return count;
     }
