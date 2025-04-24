@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0739-daily-temperatures](https://github.com/Akshayy67/LeetCode/tree/master/0739-daily-temperatures) |
 | [0797-rabbits-in-forest](https://github.com/Akshayy67/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0895-shortest-path-to-get-all-keys](https://github.com/Akshayy67/LeetCode/tree/master/0895-shortest-path-to-get-all-keys) |
+| [1034-subarrays-with-k-different-integers](https://github.com/Akshayy67/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1039-find-the-town-judge](https://github.com/Akshayy67/LeetCode/tree/master/1039-find-the-town-judge) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Akshayy67/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1656-count-good-triplets](https://github.com/Akshayy67/LeetCode/tree/master/1656-count-good-triplets) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Akshayy67/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0139-word-break](https://github.com/Akshayy67/LeetCode/tree/master/0139-word-break) |
 | [0797-rabbits-in-forest](https://github.com/Akshayy67/LeetCode/tree/master/0797-rabbits-in-forest) |
+| [1034-subarrays-with-k-different-integers](https://github.com/Akshayy67/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1039-find-the-town-judge](https://github.com/Akshayy67/LeetCode/tree/master/1039-find-the-town-judge) |
 | [1500-count-largest-group](https://github.com/Akshayy67/LeetCode/tree/master/1500-count-largest-group) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Akshayy67/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sliding Window
 |  |
 | ------- |
+| [1034-subarrays-with-k-different-integers](https://github.com/Akshayy67/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Akshayy67/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Akshayy67/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Akshayy67/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
@@ -257,4 +260,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Akshayy67/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
+## Counting
+|  |
+| ------- |
+| [1034-subarrays-with-k-different-integers](https://github.com/Akshayy67/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
 <!---LeetCode Topics End-->
