@@ -4,15 +4,8 @@ class Solution {
         int ans=0;
         while(l<r){
              mid=(l+r)/2;
-            if(nums[l]>nums[mid]){
-                r=mid;
-            }
-            else if(nums[r]<nums[mid]){
-                l=mid+1;
-            }
-            else{
-                r--;
-            }
+            if(nums[r]<nums[mid]) l=mid+1;
+            else r=mid;
         }
         return nums[l];
     }
