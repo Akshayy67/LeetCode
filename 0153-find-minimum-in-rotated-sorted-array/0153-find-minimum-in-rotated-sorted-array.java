@@ -4,7 +4,9 @@ class Solution {
         int ans=0;
         while(l<r){
              mid=(l+r)/2;
-            if(nums[r]<nums[mid]) l=mid+1;
+            // eleminate the left part as it is sorted minimum is compuslorily on right half
+            if(nums[r]<nums[mid]) l=mid+1; 
+            //eliminate right part
             else r=mid;
         }
         return nums[l];
