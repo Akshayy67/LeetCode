@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0008-string-to-integer-atoi](https://github.com/Akshayy67/LeetCode/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/Akshayy67/LeetCode/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Akshayy67/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/Akshayy67/LeetCode/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/Akshayy67/LeetCode/tree/master/0038-count-and-say) |
 | [0079-word-search](https://github.com/Akshayy67/LeetCode/tree/master/0079-word-search) |
 | [0139-word-break](https://github.com/Akshayy67/LeetCode/tree/master/0139-word-break) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Akshayy67/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/Akshayy67/LeetCode/tree/master/0022-generate-parentheses) |
 | [0077-combinations](https://github.com/Akshayy67/LeetCode/tree/master/0077-combinations) |
 | [0079-word-search](https://github.com/Akshayy67/LeetCode/tree/master/0079-word-search) |
 | [0212-word-search-ii](https://github.com/Akshayy67/LeetCode/tree/master/0212-word-search-ii) |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Akshayy67/LeetCode/tree/master/0022-generate-parentheses) |
 | [0064-minimum-path-sum](https://github.com/Akshayy67/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0139-word-break](https://github.com/Akshayy67/LeetCode/tree/master/0139-word-break) |
 | [0472-concatenated-words](https://github.com/Akshayy67/LeetCode/tree/master/0472-concatenated-words) |
