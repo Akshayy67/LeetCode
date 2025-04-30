@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Akshayy67/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Akshayy67/LeetCode/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/Akshayy67/LeetCode/tree/master/0038-count-and-say) |
+| [0072-edit-distance](https://github.com/Akshayy67/LeetCode/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/Akshayy67/LeetCode/tree/master/0079-word-search) |
 | [0139-word-break](https://github.com/Akshayy67/LeetCode/tree/master/0139-word-break) |
 | [0212-word-search-ii](https://github.com/Akshayy67/LeetCode/tree/master/0212-word-search-ii) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0022-generate-parentheses](https://github.com/Akshayy67/LeetCode/tree/master/0022-generate-parentheses) |
 | [0064-minimum-path-sum](https://github.com/Akshayy67/LeetCode/tree/master/0064-minimum-path-sum) |
+| [0072-edit-distance](https://github.com/Akshayy67/LeetCode/tree/master/0072-edit-distance) |
 | [0139-word-break](https://github.com/Akshayy67/LeetCode/tree/master/0139-word-break) |
 | [0472-concatenated-words](https://github.com/Akshayy67/LeetCode/tree/master/0472-concatenated-words) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Akshayy67/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
