@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0472-concatenated-words](https://github.com/Akshayy67/LeetCode/tree/master/0472-concatenated-words) |
 | [0812-rotate-string](https://github.com/Akshayy67/LeetCode/tree/master/0812-rotate-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Akshayy67/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1250-longest-common-subsequence](https://github.com/Akshayy67/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Akshayy67/LeetCode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1508-longest-happy-prefix](https://github.com/Akshayy67/LeetCode/tree/master/1508-longest-happy-prefix) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Akshayy67/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0139-word-break](https://github.com/Akshayy67/LeetCode/tree/master/0139-word-break) |
 | [0472-concatenated-words](https://github.com/Akshayy67/LeetCode/tree/master/0472-concatenated-words) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Akshayy67/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
+| [1250-longest-common-subsequence](https://github.com/Akshayy67/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Akshayy67/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Design
 |  |
