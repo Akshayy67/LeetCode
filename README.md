@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2699-count-the-number-of-fair-pairs](https://github.com/Akshayy67/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Akshayy67/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Akshayy67/LeetCode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Akshayy67/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Akshayy67/LeetCode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3738-make-array-non-decreasing](https://github.com/Akshayy67/LeetCode/tree/master/3738-make-array-non-decreasing) |
 ## Hash Table
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0212-word-search-ii](https://github.com/Akshayy67/LeetCode/tree/master/0212-word-search-ii) |
 | [0895-shortest-path-to-get-all-keys](https://github.com/Akshayy67/LeetCode/tree/master/0895-shortest-path-to-get-all-keys) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Akshayy67/LeetCode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Akshayy67/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Math
 |  |
 | ------- |
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0813-all-paths-from-source-to-target](https://github.com/Akshayy67/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
 | [0820-find-eventual-safe-states](https://github.com/Akshayy67/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [1039-find-the-town-judge](https://github.com/Akshayy67/LeetCode/tree/master/1039-find-the-town-judge) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Akshayy67/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Topological Sort
 |  |
 | ------- |
@@ -347,4 +350,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0954-maximum-sum-circular-subarray](https://github.com/Akshayy67/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Akshayy67/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+## Shortest Path
+|  |
+| ------- |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Akshayy67/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 <!---LeetCode Topics End-->
