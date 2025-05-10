@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Akshayy67/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Akshayy67/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Akshayy67/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Akshayy67/LeetCode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Akshayy67/LeetCode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Akshayy67/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Akshayy67/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0797-rabbits-in-forest](https://github.com/Akshayy67/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Akshayy67/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/Akshayy67/LeetCode/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
+| [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Akshayy67/LeetCode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3738-make-array-non-decreasing](https://github.com/Akshayy67/LeetCode/tree/master/3738-make-array-non-decreasing) |
 ## Graph
 |  |
