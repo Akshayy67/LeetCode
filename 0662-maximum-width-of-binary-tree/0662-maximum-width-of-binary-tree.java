@@ -37,8 +37,8 @@ class Solution {
                 if(cur.r.left!=null) q.add(new Pair(cur.r.left,2*cur.idx+1));
                 if(cur.r.right!=null) q.add(new Pair(cur.r.right,2*cur.idx+2));
             }
-            max=Math.max(max,last-first);
+            max=Math.max(max,last-first+1);
         }
-        return max+1;
+        return max;
     }
 }
