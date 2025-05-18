@@ -426,4 +426,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/Akshayy67/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
+## Database
+|  |
+| ------- |
+| [1179-game-play-analysis-i](https://github.com/Akshayy67/LeetCode/tree/master/1179-game-play-analysis-i) |
 <!---LeetCode Topics End-->
