@@ -6,7 +6,7 @@ class Solution {
         for(int num:nums){
             sum+=num;
             result+=mp.getOrDefault(sum-goal,0);
-            mp.put(sum-goal,mp.getOrDefault(sum,0)+1);
+            mp.put(sum,mp.getOrDefault(sum,0)+1);
         }
         return result;
     }
