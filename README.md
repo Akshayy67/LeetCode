@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0801-is-graph-bipartite](https://github.com/Akshayy67/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [0813-all-paths-from-source-to-target](https://github.com/Akshayy67/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
 | [0820-find-eventual-safe-states](https://github.com/Akshayy67/LeetCode/tree/master/0820-find-eventual-safe-states) |
+| [2662-check-knight-tour-configuration](https://github.com/Akshayy67/LeetCode/tree/master/2662-check-knight-tour-configuration) |
 ## Binary Tree
 |  |
 | ------- |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Akshayy67/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Akshayy67/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2594-count-pairs-of-similar-strings](https://github.com/Akshayy67/LeetCode/tree/master/2594-count-pairs-of-similar-strings) |
+| [2662-check-knight-tour-configuration](https://github.com/Akshayy67/LeetCode/tree/master/2662-check-knight-tour-configuration) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Akshayy67/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2855-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Akshayy67/LeetCode/tree/master/2855-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Akshayy67/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0820-find-eventual-safe-states](https://github.com/Akshayy67/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [0895-shortest-path-to-get-all-keys](https://github.com/Akshayy67/LeetCode/tree/master/0895-shortest-path-to-get-all-keys) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Akshayy67/LeetCode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
+| [2662-check-knight-tour-configuration](https://github.com/Akshayy67/LeetCode/tree/master/2662-check-knight-tour-configuration) |
 ## Matrix
 |  |
 | ------- |
@@ -260,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0212-word-search-ii](https://github.com/Akshayy67/LeetCode/tree/master/0212-word-search-ii) |
 | [0895-shortest-path-to-get-all-keys](https://github.com/Akshayy67/LeetCode/tree/master/0895-shortest-path-to-get-all-keys) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Akshayy67/LeetCode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
+| [2662-check-knight-tour-configuration](https://github.com/Akshayy67/LeetCode/tree/master/2662-check-knight-tour-configuration) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Akshayy67/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Akshayy67/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Math
@@ -412,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0043-multiply-strings](https://github.com/Akshayy67/LeetCode/tree/master/0043-multiply-strings) |
 | [2048-build-array-from-permutation](https://github.com/Akshayy67/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Akshayy67/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2662-check-knight-tour-configuration](https://github.com/Akshayy67/LeetCode/tree/master/2662-check-knight-tour-configuration) |
 ## Counting
 |  |
 | ------- |
