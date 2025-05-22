@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0374-guess-number-higher-or-lower](https://github.com/Akshayy67/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Akshayy67/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0923-super-egg-drop](https://github.com/Akshayy67/LeetCode/tree/master/0923-super-egg-drop) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Akshayy67/LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Akshayy67/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Akshayy67/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Akshayy67/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Akshayy67/LeetCode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2048-build-array-from-permutation](https://github.com/Akshayy67/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Akshayy67/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Akshayy67/LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Akshayy67/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Akshayy67/LeetCode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Akshayy67/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0966-binary-subarrays-with-sum](https://github.com/Akshayy67/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Akshayy67/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1833-find-the-highest-altitude](https://github.com/Akshayy67/LeetCode/tree/master/1833-find-the-highest-altitude) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Akshayy67/LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Akshayy67/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [3639-zero-array-transformation-i](https://github.com/Akshayy67/LeetCode/tree/master/3639-zero-array-transformation-i) |
 ## Sliding Window
@@ -313,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1034-subarrays-with-k-different-integers](https://github.com/Akshayy67/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Akshayy67/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Akshayy67/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Akshayy67/LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Akshayy67/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Akshayy67/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Akshayy67/LeetCode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
