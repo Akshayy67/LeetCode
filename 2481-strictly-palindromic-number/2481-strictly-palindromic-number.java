@@ -1,9 +1,9 @@
 class Solution {
     public boolean isStrictlyPalindromic(int n) {
         int b=n-2;
-        String seq="";
+        StringBuilder seq= new StringBuilder();
         while(n>0){
-            seq=seq+""+(n%b);
+            seq.append(n%b);
             n=n/b;
         }
         System.out.println(seq);
