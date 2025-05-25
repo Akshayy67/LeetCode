@@ -260,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Akshayy67/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Akshayy67/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Akshayy67/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2481-strictly-palindromic-number](https://github.com/Akshayy67/LeetCode/tree/master/2481-strictly-palindromic-number) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Akshayy67/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Sorting
 |  |
@@ -321,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Akshayy67/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1500-count-largest-group](https://github.com/Akshayy67/LeetCode/tree/master/1500-count-largest-group) |
 | [2031-egg-drop-with-2-eggs-and-n-floors](https://github.com/Akshayy67/LeetCode/tree/master/2031-egg-drop-with-2-eggs-and-n-floors) |
+| [2481-strictly-palindromic-number](https://github.com/Akshayy67/LeetCode/tree/master/2481-strictly-palindromic-number) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Akshayy67/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Prefix Sum
 |  |
@@ -519,4 +521,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/Akshayy67/LeetCode/tree/master/0692-top-k-frequent-words) |
+## Brainteaser
+|  |
+| ------- |
+| [2481-strictly-palindromic-number](https://github.com/Akshayy67/LeetCode/tree/master/2481-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
