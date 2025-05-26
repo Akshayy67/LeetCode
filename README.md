@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2215-finding-3-digit-even-numbers](https://github.com/Akshayy67/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Akshayy67/LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Akshayy67/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Akshayy67/LeetCode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Akshayy67/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Akshayy67/LeetCode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Akshayy67/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1798-max-number-of-k-sum-pairs](https://github.com/Akshayy67/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Akshayy67/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Akshayy67/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Akshayy67/LeetCode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2594-count-pairs-of-similar-strings](https://github.com/Akshayy67/LeetCode/tree/master/2594-count-pairs-of-similar-strings) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Akshayy67/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Akshayy67/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -308,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Akshayy67/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0895-shortest-path-to-get-all-keys](https://github.com/Akshayy67/LeetCode/tree/master/0895-shortest-path-to-get-all-keys) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Akshayy67/LeetCode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
+| [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Akshayy67/LeetCode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/Akshayy67/LeetCode/tree/master/2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
 | [2662-check-knight-tour-configuration](https://github.com/Akshayy67/LeetCode/tree/master/2662-check-knight-tour-configuration) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Akshayy67/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
