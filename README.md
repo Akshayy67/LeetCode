@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Akshayy67/LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Akshayy67/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Akshayy67/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2469-longest-subsequence-with-limited-sum](https://github.com/Akshayy67/LeetCode/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Akshayy67/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Array
 |  |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Akshayy67/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Akshayy67/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/Akshayy67/LeetCode/tree/master/2454-largest-local-values-in-a-matrix) |
+| [2469-longest-subsequence-with-limited-sum](https://github.com/Akshayy67/LeetCode/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2594-count-pairs-of-similar-strings](https://github.com/Akshayy67/LeetCode/tree/master/2594-count-pairs-of-similar-strings) |
 | [2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/Akshayy67/LeetCode/tree/master/2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
 | [2662-check-knight-tour-configuration](https://github.com/Akshayy67/LeetCode/tree/master/2662-check-knight-tour-configuration) |
@@ -294,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1829-maximum-units-on-a-truck](https://github.com/Akshayy67/LeetCode/tree/master/1829-maximum-units-on-a-truck) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Akshayy67/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Akshayy67/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2469-longest-subsequence-with-limited-sum](https://github.com/Akshayy67/LeetCode/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Akshayy67/LeetCode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Akshayy67/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3819-count-covered-buildings](https://github.com/Akshayy67/LeetCode/tree/master/3819-count-covered-buildings) |
@@ -360,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1833-find-the-highest-altitude](https://github.com/Akshayy67/LeetCode/tree/master/1833-find-the-highest-altitude) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Akshayy67/LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Akshayy67/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2469-longest-subsequence-with-limited-sum](https://github.com/Akshayy67/LeetCode/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [3639-zero-array-transformation-i](https://github.com/Akshayy67/LeetCode/tree/master/3639-zero-array-transformation-i) |
 ## Sliding Window
 |  |
@@ -438,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1829-maximum-units-on-a-truck](https://github.com/Akshayy67/LeetCode/tree/master/1829-maximum-units-on-a-truck) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/Akshayy67/LeetCode/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Akshayy67/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2469-longest-subsequence-with-limited-sum](https://github.com/Akshayy67/LeetCode/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Akshayy67/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Akshayy67/LeetCode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3738-make-array-non-decreasing](https://github.com/Akshayy67/LeetCode/tree/master/3738-make-array-non-decreasing) |
