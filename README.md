@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Akshayy67/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Akshayy67/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Akshayy67/LeetCode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
+| [2227-sum-of-subarray-ranges](https://github.com/Akshayy67/LeetCode/tree/master/2227-sum-of-subarray-ranges) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Akshayy67/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [3738-make-array-non-decreasing](https://github.com/Akshayy67/LeetCode/tree/master/3738-make-array-non-decreasing) |
 ## Tree
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Akshayy67/LeetCode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2048-build-array-from-permutation](https://github.com/Akshayy67/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Akshayy67/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
+| [2227-sum-of-subarray-ranges](https://github.com/Akshayy67/LeetCode/tree/master/2227-sum-of-subarray-ranges) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Akshayy67/LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Akshayy67/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Akshayy67/LeetCode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/Akshayy67/LeetCode/tree/master/0739-daily-temperatures) |
+| [2227-sum-of-subarray-ranges](https://github.com/Akshayy67/LeetCode/tree/master/2227-sum-of-subarray-ranges) |
 | [3738-make-array-non-decreasing](https://github.com/Akshayy67/LeetCode/tree/master/3738-make-array-non-decreasing) |
 ## Backtracking
 |  |
