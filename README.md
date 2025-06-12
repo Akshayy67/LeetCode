@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Binary Search Tree
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Akshayy67/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Akshayy67/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Akshayy67/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Akshayy67/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0001-two-sum](https://github.com/Akshayy67/LeetCode/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/Akshayy67/LeetCode/tree/master/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Akshayy67/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0041-first-missing-positive](https://github.com/Akshayy67/LeetCode/tree/master/0041-first-missing-positive) |
 | [0064-minimum-path-sum](https://github.com/Akshayy67/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Akshayy67/LeetCode/tree/master/0073-set-matrix-zeroes) |
