@@ -361,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Akshayy67/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Akshayy67/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1500-count-largest-group](https://github.com/Akshayy67/LeetCode/tree/master/1500-count-largest-group) |
+| [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Akshayy67/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/Akshayy67/LeetCode/tree/master/1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
 | [2031-egg-drop-with-2-eggs-and-n-floors](https://github.com/Akshayy67/LeetCode/tree/master/2031-egg-drop-with-2-eggs-and-n-floors) |
 | [2481-strictly-palindromic-number](https://github.com/Akshayy67/LeetCode/tree/master/2481-strictly-palindromic-number) |
@@ -453,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0409-longest-palindrome](https://github.com/Akshayy67/LeetCode/tree/master/0409-longest-palindrome) |
 | [0797-rabbits-in-forest](https://github.com/Akshayy67/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Akshayy67/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Akshayy67/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1829-maximum-units-on-a-truck](https://github.com/Akshayy67/LeetCode/tree/master/1829-maximum-units-on-a-truck) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/Akshayy67/LeetCode/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Akshayy67/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
