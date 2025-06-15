@@ -20,7 +20,7 @@ class Solution {
                 }
             }
             for(char j='1';j<='9';j++){
-                number=String.valueOf(num);
+            number=String.valueOf(num);
                 number=number.replace(number.charAt(i),j);
                 try{
                     int cur=Integer.parseInt(number);
