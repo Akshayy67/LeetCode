@@ -228,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2594-count-pairs-of-similar-strings](https://github.com/Akshayy67/LeetCode/tree/master/2594-count-pairs-of-similar-strings) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Akshayy67/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Akshayy67/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/Akshayy67/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Akshayy67/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Akshayy67/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Akshayy67/LeetCode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2594-count-pairs-of-similar-strings](https://github.com/Akshayy67/LeetCode/tree/master/2594-count-pairs-of-similar-strings) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Akshayy67/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3194-find-words-containing-character](https://github.com/Akshayy67/LeetCode/tree/master/3194-find-words-containing-character) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/Akshayy67/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Akshayy67/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Akshayy67/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Akshayy67/LeetCode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
@@ -331,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Akshayy67/LeetCode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Akshayy67/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Akshayy67/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/Akshayy67/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3819-count-covered-buildings](https://github.com/Akshayy67/LeetCode/tree/master/3819-count-covered-buildings) |
 ## Interactive
 |  |
@@ -485,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Akshayy67/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Akshayy67/LeetCode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Akshayy67/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/Akshayy67/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3738-make-array-non-decreasing](https://github.com/Akshayy67/LeetCode/tree/master/3738-make-array-non-decreasing) |
 ## Graph
 |  |
@@ -562,6 +566,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/Akshayy67/LeetCode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2594-count-pairs-of-similar-strings](https://github.com/Akshayy67/LeetCode/tree/master/2594-count-pairs-of-similar-strings) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Akshayy67/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/Akshayy67/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Akshayy67/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Akshayy67/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Akshayy67/LeetCode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
