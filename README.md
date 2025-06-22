@@ -275,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Akshayy67/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Akshayy67/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Akshayy67/LeetCode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3893-generate-tag-for-video-caption](https://github.com/Akshayy67/LeetCode/tree/master/3893-generate-tag-for-video-caption) |
 ## Enumeration
 |  |
 | ------- |
@@ -561,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Akshayy67/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Akshayy67/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2662-check-knight-tour-configuration](https://github.com/Akshayy67/LeetCode/tree/master/2662-check-knight-tour-configuration) |
+| [3893-generate-tag-for-video-caption](https://github.com/Akshayy67/LeetCode/tree/master/3893-generate-tag-for-video-caption) |
 ## Counting
 |  |
 | ------- |
