@@ -278,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Akshayy67/LeetCode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1250-longest-common-subsequence](https://github.com/Akshayy67/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Akshayy67/LeetCode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
+| [1430-find-the-k-beauty-of-a-number](https://github.com/Akshayy67/LeetCode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1508-longest-happy-prefix](https://github.com/Akshayy67/LeetCode/tree/master/1508-longest-happy-prefix) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Akshayy67/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/Akshayy67/LeetCode/tree/master/2168-check-if-numbers-are-ascending-in-a-sentence) |
@@ -407,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0923-super-egg-drop](https://github.com/Akshayy67/LeetCode/tree/master/0923-super-egg-drop) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Akshayy67/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Akshayy67/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1430-find-the-k-beauty-of-a-number](https://github.com/Akshayy67/LeetCode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1500-count-largest-group](https://github.com/Akshayy67/LeetCode/tree/master/1500-count-largest-group) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Akshayy67/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/Akshayy67/LeetCode/tree/master/1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
@@ -439,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Akshayy67/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/Akshayy67/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Akshayy67/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
+| [1430-find-the-k-beauty-of-a-number](https://github.com/Akshayy67/LeetCode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Akshayy67/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Akshayy67/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Akshayy67/LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
