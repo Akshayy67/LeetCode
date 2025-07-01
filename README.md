@@ -288,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Akshayy67/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3194-find-words-containing-character](https://github.com/Akshayy67/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Akshayy67/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3566-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/Akshayy67/LeetCode/tree/master/3566-find-the-sequence-of-strings-appeared-on-the-screen) |
 | [3617-find-the-original-typed-string-i](https://github.com/Akshayy67/LeetCode/tree/master/3617-find-the-original-typed-string-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Akshayy67/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Akshayy67/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -592,6 +593,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Akshayy67/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Akshayy67/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2662-check-knight-tour-configuration](https://github.com/Akshayy67/LeetCode/tree/master/2662-check-knight-tour-configuration) |
+| [3566-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/Akshayy67/LeetCode/tree/master/3566-find-the-sequence-of-strings-appeared-on-the-screen) |
 | [3893-generate-tag-for-video-caption](https://github.com/Akshayy67/LeetCode/tree/master/3893-generate-tag-for-video-caption) |
 ## Counting
 |  |
