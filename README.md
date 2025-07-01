@@ -288,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Akshayy67/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3194-find-words-containing-character](https://github.com/Akshayy67/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Akshayy67/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3617-find-the-original-typed-string-i](https://github.com/Akshayy67/LeetCode/tree/master/3617-find-the-original-typed-string-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Akshayy67/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Akshayy67/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Akshayy67/LeetCode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
