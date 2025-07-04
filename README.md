@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Akshayy67/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Akshayy67/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Akshayy67/LeetCode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/Akshayy67/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0739-daily-temperatures](https://github.com/Akshayy67/LeetCode/tree/master/0739-daily-temperatures) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Akshayy67/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0134-gas-station](https://github.com/Akshayy67/LeetCode/tree/master/0134-gas-station) |
 | [0139-word-break](https://github.com/Akshayy67/LeetCode/tree/master/0139-word-break) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Akshayy67/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/Akshayy67/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Akshayy67/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0212-word-search-ii](https://github.com/Akshayy67/LeetCode/tree/master/0212-word-search-ii) |
@@ -413,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0029-divide-two-integers](https://github.com/Akshayy67/LeetCode/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/Akshayy67/LeetCode/tree/master/0043-multiply-strings) |
 | [0070-climbing-stairs](https://github.com/Akshayy67/LeetCode/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Akshayy67/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0365-water-and-jug-problem](https://github.com/Akshayy67/LeetCode/tree/master/0365-water-and-jug-problem) |
 | [0797-rabbits-in-forest](https://github.com/Akshayy67/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0923-super-egg-drop](https://github.com/Akshayy67/LeetCode/tree/master/0923-super-egg-drop) |
