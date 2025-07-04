@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Akshayy67/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Akshayy67/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0141-linked-list-cycle](https://github.com/Akshayy67/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Akshayy67/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/Akshayy67/LeetCode/tree/master/0146-lru-cache) |
 | [0234-palindrome-linked-list](https://github.com/Akshayy67/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Akshayy67/LeetCode/tree/master/0328-odd-even-linked-list) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0133-clone-graph](https://github.com/Akshayy67/LeetCode/tree/master/0133-clone-graph) |
 | [0139-word-break](https://github.com/Akshayy67/LeetCode/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/Akshayy67/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Akshayy67/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/Akshayy67/LeetCode/tree/master/0146-lru-cache) |
 | [0217-contains-duplicate](https://github.com/Akshayy67/LeetCode/tree/master/0217-contains-duplicate) |
 | [0409-longest-palindrome](https://github.com/Akshayy67/LeetCode/tree/master/0409-longest-palindrome) |
@@ -336,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0031-next-permutation](https://github.com/Akshayy67/LeetCode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Akshayy67/LeetCode/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/Akshayy67/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Akshayy67/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0234-palindrome-linked-list](https://github.com/Akshayy67/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/Akshayy67/LeetCode/tree/master/0344-reverse-string) |
 | [0647-palindromic-substrings](https://github.com/Akshayy67/LeetCode/tree/master/0647-palindromic-substrings) |
