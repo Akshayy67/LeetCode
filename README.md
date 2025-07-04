@@ -423,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2202-sum-of-k-mirror-numbers](https://github.com/Akshayy67/LeetCode/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2481-strictly-palindromic-number](https://github.com/Akshayy67/LeetCode/tree/master/2481-strictly-palindromic-number) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Akshayy67/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Akshayy67/LeetCode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Akshayy67/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Akshayy67/LeetCode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Prefix Sum
@@ -560,6 +561,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2594-count-pairs-of-similar-strings](https://github.com/Akshayy67/LeetCode/tree/master/2594-count-pairs-of-similar-strings) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/Akshayy67/LeetCode/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Akshayy67/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Akshayy67/LeetCode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Union Find
 |  |
 | ------- |
@@ -653,6 +655,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0024-swap-nodes-in-pairs](https://github.com/Akshayy67/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0234-palindrome-linked-list](https://github.com/Akshayy67/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Akshayy67/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Akshayy67/LeetCode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Database
 |  |
 | ------- |
