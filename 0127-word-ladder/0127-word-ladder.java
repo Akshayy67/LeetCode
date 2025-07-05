@@ -1,3 +1,5 @@
+//     Time is: O(n!⋅n⋅L)
+
 // class Solution {
 //     public int ladderLength(String beginWord, String endWord, List<String> wordList) {
 //         if(!wordList.contains(endWord)) return 0;
@@ -31,6 +33,10 @@
 //         return count==1;
 //     }
 // }
+
+
+     //Time is  O(N × M × N)
+
 // class Solution {
 //     int result=Integer.MAX_VALUE;
 //     public int ladderLength(String beginWord, String endWord, List<String> wordList) {
@@ -64,6 +70,9 @@
 //         return count==1;
 //     }
 // }
+
+//  Time is: O(N × M × 26) = O(NM)
+
 class Pair{
     String s;
     int count;
@@ -78,6 +87,7 @@ class Solution {
         for(String str:wordList){
             st.add(str);
         }
+        // If endWord is not in wordList, transformation is impossible
         if(!st.contains(endWord)) return 0;
         Queue<Pair> q= new LinkedList<>();
         q.offer(new Pair(beginWord,1));
@@ -87,10 +97,12 @@ class Solution {
             char[] chars=word.toCharArray(); 
             for(int i=0;i<word.length();i++){
                 char original=chars[i];
+                //generate all the next words
                 for(char c='a';c<='z';c++){
                     if(c==original) continue;
                     chars[i]=c;
                     String next=new String(chars);
+                    // if generated word is in set then add to queue
                     if(st.contains(next)){
                         if(next.equals(endWord)) return cur.count+1;
                         q.add(new Pair(next,cur.count+1));
