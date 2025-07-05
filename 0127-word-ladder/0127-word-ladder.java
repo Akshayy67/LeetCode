@@ -1,36 +1,36 @@
-class Solution {
-    public int ladderLength(String beginWord, String endWord, List<String> wordList) {
-        if(!wordList.contains(endWord)) return 0;
-        int level=1;
-        Queue<String> q= new LinkedList<>();
-        Set<String> st= new HashSet<>(wordList);
-        st.remove(beginWord);
-        q.add(beginWord);
-        while(!q.isEmpty()){
-            int size=q.size();
-            while(size-->0){
-                String cur=q.poll();
-                for(String temp:new HashSet<>(st)){
-                    if(dif(cur,temp)){
-                        if(temp.equals(endWord)) return level+1;
-                        st.remove(temp);
-                        q.add(temp);
-                    }
-                }
-            }
-            level++;
-        }
-        return 0;
-    }
-    private boolean dif(String s1,String s2){
-        int count=0;
-        for(int i=0;i<s1.length();i++){
-            if(s1.charAt(i)!=s2.charAt(i)) count++;
-            if(count>1) return false;
-        }
-        return count==1;
-    }
-}
+// class Solution {
+//     public int ladderLength(String beginWord, String endWord, List<String> wordList) {
+//         if(!wordList.contains(endWord)) return 0;
+//         int level=1;
+//         Queue<String> q= new LinkedList<>();
+//         Set<String> st= new HashSet<>(wordList);
+//         st.remove(beginWord);
+//         q.add(beginWord);
+//         while(!q.isEmpty()){
+//             int size=q.size();
+//             while(size-->0){
+//                 String cur=q.poll();
+//                 for(String temp:new HashSet<>(st)){
+//                     if(dif(cur,temp)){
+//                         if(temp.equals(endWord)) return level+1;
+//                         st.remove(temp);
+//                         q.add(temp);
+//                     }
+//                 }
+//             }
+//             level++;
+//         }
+//         return 0;
+//     }
+//     private boolean dif(String s1,String s2){
+//         int count=0;
+//         for(int i=0;i<s1.length();i++){
+//             if(s1.charAt(i)!=s2.charAt(i)) count++;
+//             if(count>1) return false;
+//         }
+//         return count==1;
+//     }
+// }
 // class Solution {
 //     int result=Integer.MAX_VALUE;
 //     public int ladderLength(String beginWord, String endWord, List<String> wordList) {
@@ -64,3 +64,42 @@ class Solution {
 //         return count==1;
 //     }
 // }
+class Pair{
+    String s;
+    int count;
+    public Pair(String s,int count){
+        this.s=s;
+        this.count=count;
+    }
+}
+class Solution {
+    public int ladderLength(String beginWord, String endWord, List<String> wordList) {
+        Set<String> st= new HashSet<>();
+        for(String str:wordList){
+            st.add(str);
+        }
+        if(!st.contains(endWord)) return 0;
+        Queue<Pair> q= new LinkedList<>();
+        q.offer(new Pair(beginWord,1));
+        while(!q.isEmpty()){
+            Pair cur=q.poll();
+            String word=cur.s;
+            char[] chars=word.toCharArray(); 
+            for(int i=0;i<word.length();i++){
+                char original=chars[i];
+                for(char c='a';c<='z';c++){
+                    if(c==original) continue;
+                    chars[i]=c;
+                    String next=new String(chars);
+                    if(st.contains(next)){
+                        if(next.equals(endWord)) return cur.count+1;
+                        q.add(new Pair(next,cur.count+1));
+                        st.remove(next);
+                    }
+                }
+                chars[i]=original;
+            }
+        }
+        return 0;
+    }
+}
