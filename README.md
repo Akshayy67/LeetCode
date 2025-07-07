@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1293-three-consecutive-odds](https://github.com/Akshayy67/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Akshayy67/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Akshayy67/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Akshayy67/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Akshayy67/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Akshayy67/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1656-count-good-triplets](https://github.com/Akshayy67/LeetCode/tree/master/1656-count-good-triplets) |
@@ -372,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Akshayy67/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0594-longest-harmonious-subsequence](https://github.com/Akshayy67/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0692-top-k-frequent-words](https://github.com/Akshayy67/LeetCode/tree/master/0692-top-k-frequent-words) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Akshayy67/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Akshayy67/LeetCode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Akshayy67/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Akshayy67/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -547,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0409-longest-palindrome](https://github.com/Akshayy67/LeetCode/tree/master/0409-longest-palindrome) |
 | [0797-rabbits-in-forest](https://github.com/Akshayy67/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Akshayy67/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Akshayy67/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Akshayy67/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1829-maximum-units-on-a-truck](https://github.com/Akshayy67/LeetCode/tree/master/1829-maximum-units-on-a-truck) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/Akshayy67/LeetCode/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
@@ -667,6 +670,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0692-top-k-frequent-words](https://github.com/Akshayy67/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Akshayy67/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1127-last-stone-weight](https://github.com/Akshayy67/LeetCode/tree/master/1127-last-stone-weight) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Akshayy67/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Akshayy67/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Akshayy67/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Akshayy67/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
