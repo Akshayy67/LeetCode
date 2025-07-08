@@ -1,5 +1,7 @@
 class Solution {
+    Integer[] nextId;
     public int maxValue(int[][] events, int k) {
+        nextId= new Integer[events.length];
         Arrays.sort(events,(a,b)->a[0]-b[0]);
         int n=events.length;
         int[][] dp= new int[k+1][events.length+1];
@@ -12,13 +14,14 @@ class Solution {
         return dp[k][0];
     }
     public int bs(int[][] events,int i,int target){
+        if(nextId[i-1]!=null) return nextId[i-1];
         int low=i,high=events.length-1,mid=0;
         while(low<=high){
             mid=(low+high)/2;
             if(events[mid][0]<=target) low=mid+1;
             else high=mid-1;
         }
-        return low;
+        return nextId[i-1]=low;
     }
 }
 // class Solution {
