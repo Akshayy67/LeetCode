@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0275-h-index-ii](https://github.com/Akshayy67/LeetCode/tree/master/0275-h-index-ii) |
 | [0307-range-sum-query-mutable](https://github.com/Akshayy67/LeetCode/tree/master/0307-range-sum-query-mutable) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Akshayy67/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0318-maximum-product-of-word-lengths](https://github.com/Akshayy67/LeetCode/tree/master/0318-maximum-product-of-word-lengths) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Akshayy67/LeetCode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Akshayy67/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Akshayy67/LeetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0139-word-break](https://github.com/Akshayy67/LeetCode/tree/master/0139-word-break) |
 | [0212-word-search-ii](https://github.com/Akshayy67/LeetCode/tree/master/0212-word-search-ii) |
 | [0214-shortest-palindrome](https://github.com/Akshayy67/LeetCode/tree/master/0214-shortest-palindrome) |
+| [0318-maximum-product-of-word-lengths](https://github.com/Akshayy67/LeetCode/tree/master/0318-maximum-product-of-word-lengths) |
 | [0344-reverse-string](https://github.com/Akshayy67/LeetCode/tree/master/0344-reverse-string) |
 | [0409-longest-palindrome](https://github.com/Akshayy67/LeetCode/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/Akshayy67/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
@@ -590,6 +592,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0090-subsets-ii](https://github.com/Akshayy67/LeetCode/tree/master/0090-subsets-ii) |
 | [0137-single-number-ii](https://github.com/Akshayy67/LeetCode/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/Akshayy67/LeetCode/tree/master/0260-single-number-iii) |
+| [0318-maximum-product-of-word-lengths](https://github.com/Akshayy67/LeetCode/tree/master/0318-maximum-product-of-word-lengths) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Akshayy67/LeetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0895-shortest-path-to-get-all-keys](https://github.com/Akshayy67/LeetCode/tree/master/0895-shortest-path-to-get-all-keys) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Akshayy67/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
