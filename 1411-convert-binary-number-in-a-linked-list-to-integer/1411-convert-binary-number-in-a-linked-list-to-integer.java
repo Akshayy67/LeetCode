@@ -10,11 +10,12 @@
  */
 class Solution {
     public int getDecimalValue(ListNode head) {
-        StringBuilder bin= new StringBuilder();
+        int result=0;
         while(head!=null){
-            bin.append(head.val);
+            result<<=1;
+            if(head.val==1) result|=1;
             head=head.next;
         }
-        return Integer.parseInt(bin.toString(),2);
+        return result;
     }
 }
