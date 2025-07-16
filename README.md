@@ -219,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Akshayy67/LeetCode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Akshayy67/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Akshayy67/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Akshayy67/LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Akshayy67/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Akshayy67/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3639-zero-array-transformation-i](https://github.com/Akshayy67/LeetCode/tree/master/3639-zero-array-transformation-i) |
@@ -531,6 +532,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/Akshayy67/LeetCode/tree/master/2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
 | [2855-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Akshayy67/LeetCode/tree/master/2855-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Akshayy67/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Akshayy67/LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/Akshayy67/LeetCode/tree/master/3618-find-the-original-typed-string-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Akshayy67/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Design
