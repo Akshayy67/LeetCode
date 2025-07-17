@@ -215,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2855-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Akshayy67/LeetCode/tree/master/2855-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Akshayy67/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/Akshayy67/LeetCode/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
+| [3106-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/Akshayy67/LeetCode/tree/master/3106-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Akshayy67/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Akshayy67/LeetCode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3194-find-words-containing-character](https://github.com/Akshayy67/LeetCode/tree/master/3194-find-words-containing-character) |
@@ -535,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/Akshayy67/LeetCode/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/Akshayy67/LeetCode/tree/master/2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
 | [2855-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Akshayy67/LeetCode/tree/master/2855-maximum-number-of-jumps-to-reach-the-last-index) |
+| [3106-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/Akshayy67/LeetCode/tree/master/3106-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Akshayy67/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Akshayy67/LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Akshayy67/LeetCode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
