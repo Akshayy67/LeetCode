@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Akshayy67/LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Akshayy67/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Akshayy67/LeetCode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
+| [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Akshayy67/LeetCode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Akshayy67/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Akshayy67/LeetCode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Akshayy67/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
@@ -534,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Akshayy67/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2031-egg-drop-with-2-eggs-and-n-floors](https://github.com/Akshayy67/LeetCode/tree/master/2031-egg-drop-with-2-eggs-and-n-floors) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/Akshayy67/LeetCode/tree/master/2061-painting-a-grid-with-three-different-colors) |
+| [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Akshayy67/LeetCode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/Akshayy67/LeetCode/tree/master/2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
 | [2855-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Akshayy67/LeetCode/tree/master/2855-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3106-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/Akshayy67/LeetCode/tree/master/3106-length-of-the-longest-subsequence-that-sums-to-target) |
@@ -715,6 +717,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1127-last-stone-weight](https://github.com/Akshayy67/LeetCode/tree/master/1127-last-stone-weight) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Akshayy67/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Akshayy67/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Akshayy67/LeetCode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2479-meeting-rooms-iii](https://github.com/Akshayy67/LeetCode/tree/master/2479-meeting-rooms-iii) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Akshayy67/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Akshayy67/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
