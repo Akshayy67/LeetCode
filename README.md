@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Akshayy67/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Akshayy67/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Akshayy67/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0268-missing-number](https://github.com/Akshayy67/LeetCode/tree/master/0268-missing-number) |
 | [0275-h-index-ii](https://github.com/Akshayy67/LeetCode/tree/master/0275-h-index-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Akshayy67/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Akshayy67/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0216-combination-sum-iii](https://github.com/Akshayy67/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/Akshayy67/LeetCode/tree/master/0217-contains-duplicate) |
 | [0260-single-number-iii](https://github.com/Akshayy67/LeetCode/tree/master/0260-single-number-iii) |
+| [0268-missing-number](https://github.com/Akshayy67/LeetCode/tree/master/0268-missing-number) |
 | [0275-h-index-ii](https://github.com/Akshayy67/LeetCode/tree/master/0275-h-index-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Akshayy67/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0307-range-sum-query-mutable](https://github.com/Akshayy67/LeetCode/tree/master/0307-range-sum-query-mutable) |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0142-linked-list-cycle-ii](https://github.com/Akshayy67/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/Akshayy67/LeetCode/tree/master/0146-lru-cache) |
 | [0217-contains-duplicate](https://github.com/Akshayy67/LeetCode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Akshayy67/LeetCode/tree/master/0268-missing-number) |
 | [0409-longest-palindrome](https://github.com/Akshayy67/LeetCode/tree/master/0409-longest-palindrome) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Akshayy67/LeetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0424-longest-repeating-character-replacement](https://github.com/Akshayy67/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
@@ -405,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0015-3sum](https://github.com/Akshayy67/LeetCode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Akshayy67/LeetCode/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/Akshayy67/LeetCode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Akshayy67/LeetCode/tree/master/0268-missing-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Akshayy67/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0594-longest-harmonious-subsequence](https://github.com/Akshayy67/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0692-top-k-frequent-words](https://github.com/Akshayy67/LeetCode/tree/master/0692-top-k-frequent-words) |
@@ -473,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0043-multiply-strings](https://github.com/Akshayy67/LeetCode/tree/master/0043-multiply-strings) |
 | [0070-climbing-stairs](https://github.com/Akshayy67/LeetCode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Akshayy67/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0268-missing-number](https://github.com/Akshayy67/LeetCode/tree/master/0268-missing-number) |
 | [0365-water-and-jug-problem](https://github.com/Akshayy67/LeetCode/tree/master/0365-water-and-jug-problem) |
 | [0797-rabbits-in-forest](https://github.com/Akshayy67/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0923-super-egg-drop](https://github.com/Akshayy67/LeetCode/tree/master/0923-super-egg-drop) |
@@ -638,6 +643,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0090-subsets-ii](https://github.com/Akshayy67/LeetCode/tree/master/0090-subsets-ii) |
 | [0137-single-number-ii](https://github.com/Akshayy67/LeetCode/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/Akshayy67/LeetCode/tree/master/0260-single-number-iii) |
+| [0268-missing-number](https://github.com/Akshayy67/LeetCode/tree/master/0268-missing-number) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Akshayy67/LeetCode/tree/master/0318-maximum-product-of-word-lengths) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Akshayy67/LeetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0895-shortest-path-to-get-all-keys](https://github.com/Akshayy67/LeetCode/tree/master/0895-shortest-path-to-get-all-keys) |
