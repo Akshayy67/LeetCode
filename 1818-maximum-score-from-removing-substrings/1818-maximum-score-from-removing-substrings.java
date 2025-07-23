@@ -8,8 +8,8 @@ class Solution {
         int secondscore=x>y?y:x;
         char second=first=='a'?'b':'a';
         boolean totalchanges=true;
-        while(totalchanges){
-            totalchanges=false;
+        // while(totalchanges){
+        //     totalchanges=false;
             changes=true;
             while(changes && str.length()>=2){
                 changes=false;
@@ -48,7 +48,7 @@ class Solution {
                 }
                 str=temp;
             }
-        }
+        // }
         return score;
     }
 }
