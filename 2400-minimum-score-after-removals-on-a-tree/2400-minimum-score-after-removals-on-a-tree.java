@@ -1,42 +1,60 @@
 class Solution {
-    int result= Integer.MAX_VALUE;
+    int[] in,out,sums;
     public int minimumScore(int[] nums, int[][] edges) {
         Map<Integer,Set<Integer>> mp= new HashMap<>();
-        // int result=Integer.MAX_VALUE;
-        for(int i=0;i<nums.length;i++) mp.put(i,new HashSet<>());
+        int total=0,result=Integer.MAX_VALUE,n=nums.length;
+        in= new int[n];
+        out=new int[n];
+        sums= new int[n];
+        for(int i=0;i<nums.length;i++){
+            mp.putIfAbsent(i, new HashSet<>());
+            total^=nums[i];
+        }
         for(int[] edge:edges){
             mp.get(edge[0]).add(edge[1]);
             mp.get(edge[1]).add(edge[0]);
         }
-        int total=0;
-        for(int num:nums) total^=num;
-        dfs(0,-1,nums,mp,total);
-        return result;
-    }
-    public int dfs(int root,int parent,int[] nums,Map<Integer,Set<Integer>> mp,int total){
-        int xor=nums[root];
-        for(int neighbour:mp.get(root)){
-            if(neighbour==parent) continue;
-            xor^=dfs(neighbour,root,nums,mp,total);
-        }
-        for(int neighbour:mp.get(root)){
-            if(neighbour==parent){
-                dfs2(parent,root,root,xor,nums,mp,total);
+        dfs(0,-1,new int[] {0},mp,nums);
+        for(int i=1;i<n;i++){
+            for(int j=i+1;j<n;j++){
+                if(in[i]<in[j] && in[j]<out[i]){
+                    int xor1=total^sums[i];
+                    int xor2=sums[i]^sums[j];
+                    int xor3=sums[j];
+                    int min=Math.min(xor1,Math.min(xor2,xor3));
+                    int max=Math.max(xor1,Math.max(xor2,xor3));
+                    result=Math.min(result,max-min);
+                }
+                else if(in[j]<in[i] && in[i]<out[j]){
+                    int xor1=total^sums[j];
+                    int xor2=sums[i]^sums[j];
+                    int xor3=sums[i];
+                    int min=Math.min(xor1,Math.min(xor2,xor3));
+                    int max=Math.max(xor1,Math.max(xor2,xor3));
+                    result=Math.min(result,max-min);
+                }
+                else{
+                    int xor1=sums[i];
+                    int xor2=sums[j];
+                    int xor3=sums[i]^sums[j]^total;
+                    int min=Math.min(xor1,Math.min(xor2,xor3));
+                    int max=Math.max(xor1,Math.max(xor2,xor3));
+                    result=Math.min(result,max-min);
+                }
             }
         }
-        return xor;
+        return result;
     }
-    public int dfs2(int root,int parent,int anc,int xor1,int[] nums,Map<Integer,Set<Integer>> mp,int total){
-        int xor=nums[root];
+    public void dfs(int root,int parent,int[] count,Map<Integer,Set<Integer>> mp,int[] nums){
+        in[root]=count[0]++;
+        sums[root]=nums[root];
         for(int neighbour:mp.get(root)){
-            if(neighbour==parent) continue;
-            xor^=dfs2(neighbour,root,anc,xor1,nums,mp,total);
+            if(neighbour!=parent){
+                dfs(neighbour,root,count,mp,nums);
+                sums[root]^=sums[neighbour];
+            }
         }
-        if(parent==anc) return -1;
-        int xor2=total^xor1^xor;
-        int min=Math.min(xor1,Math.min(xor,xor2));   
-        int max=Math.max(xor1,Math.max(xor,xor2));
-        result=Math.min(result,max-min);
-        return xor;   
+        out[root]=count[0];
+        // return sums[root];
     }
 }
