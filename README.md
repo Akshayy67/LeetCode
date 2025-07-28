@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2132-convert-1d-array-into-2d-array](https://github.com/Akshayy67/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Akshayy67/LeetCode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Akshayy67/LeetCode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Akshayy67/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/Akshayy67/LeetCode/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Akshayy67/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Akshayy67/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
@@ -382,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0875-longest-mountain-in-array](https://github.com/Akshayy67/LeetCode/tree/master/0875-longest-mountain-in-array) |
 | [1656-count-good-triplets](https://github.com/Akshayy67/LeetCode/tree/master/1656-count-good-triplets) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Akshayy67/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/Akshayy67/LeetCode/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Akshayy67/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Akshayy67/LeetCode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
@@ -408,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0212-word-search-ii](https://github.com/Akshayy67/LeetCode/tree/master/0212-word-search-ii) |
 | [0216-combination-sum-iii](https://github.com/Akshayy67/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0813-all-paths-from-source-to-target](https://github.com/Akshayy67/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Akshayy67/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Two Pointers
 |  |
 | ------- |
@@ -700,6 +703,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0895-shortest-path-to-get-all-keys](https://github.com/Akshayy67/LeetCode/tree/master/0895-shortest-path-to-get-all-keys) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Akshayy67/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/Akshayy67/LeetCode/tree/master/1826-maximum-xor-with-an-element-from-array) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Akshayy67/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Akshayy67/LeetCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2594-count-pairs-of-similar-strings](https://github.com/Akshayy67/LeetCode/tree/master/2594-count-pairs-of-similar-strings) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/Akshayy67/LeetCode/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
