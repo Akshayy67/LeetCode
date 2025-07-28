@@ -1,17 +1,17 @@
 class Solution {
     Map<Integer,Integer> mp;
+    int mx;
     public int countMaxOrSubsets(int[] nums) {
         mp= new HashMap<>();
-        helper(nums,0,0);
-        int max=Collections.max(mp.keySet());
-        return mp.get(max);
+        mx=0;
+        for(int num:nums)mx|=num;
+        return helper(nums,0,0);
     }
-    public void helper(int[] nums,int i ,int or){
+    public int helper(int[] nums,int i ,int or){
         if(i==nums.length){
-            mp.put(or,mp.getOrDefault(or,0)+1);
-            return;
+            return mx==or?1:0;
         }
-        helper(nums,i+1,or);
-        helper(nums,i+1,or|nums[i]);
+        if(or==mx) return (1<<(nums.length-i));
+        return helper(nums,i+1,or) + helper(nums,i+1,or|nums[i]);
     }
 }
