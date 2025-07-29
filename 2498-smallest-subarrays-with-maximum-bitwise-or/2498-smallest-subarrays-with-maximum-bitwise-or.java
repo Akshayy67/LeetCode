@@ -7,11 +7,12 @@ class Solution {
             int count=0;
             while(count<32){
                 if(((nums[i]>>count)&1)==1) dp[count]=i;
+                max=Math.max(max,dp[count]);
                 count++;
             }
-            for(int bit=0;bit<32;bit++){
-                max=Math.max(max,dp[bit]);
-            }
+            // for(int bit=0;bit<32;bit++){
+            //     max=Math.max(max,dp[bit]);
+            // }
             result[i]=max-i+1;
         }
         return result;
