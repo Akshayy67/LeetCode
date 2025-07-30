@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Akshayy67/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0895-shortest-path-to-get-all-keys](https://github.com/Akshayy67/LeetCode/tree/master/0895-shortest-path-to-get-all-keys) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/Akshayy67/LeetCode/tree/master/0902-minimum-number-of-refueling-stops) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/Akshayy67/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0944-smallest-range-i](https://github.com/Akshayy67/LeetCode/tree/master/0944-smallest-range-i) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Akshayy67/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
 | [0966-binary-subarrays-with-sum](https://github.com/Akshayy67/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
@@ -596,6 +597,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0875-longest-mountain-in-array](https://github.com/Akshayy67/LeetCode/tree/master/0875-longest-mountain-in-array) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/Akshayy67/LeetCode/tree/master/0902-minimum-number-of-refueling-stops) |
 | [0923-super-egg-drop](https://github.com/Akshayy67/LeetCode/tree/master/0923-super-egg-drop) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/Akshayy67/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Akshayy67/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
 | [1250-longest-common-subsequence](https://github.com/Akshayy67/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Akshayy67/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -708,6 +710,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0318-maximum-product-of-word-lengths](https://github.com/Akshayy67/LeetCode/tree/master/0318-maximum-product-of-word-lengths) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Akshayy67/LeetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0895-shortest-path-to-get-all-keys](https://github.com/Akshayy67/LeetCode/tree/master/0895-shortest-path-to-get-all-keys) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/Akshayy67/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Akshayy67/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/Akshayy67/LeetCode/tree/master/1826-maximum-xor-with-an-element-from-array) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Akshayy67/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
