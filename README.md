@@ -260,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3242-count-elements-with-maximum-frequency](https://github.com/Akshayy67/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Akshayy67/LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Akshayy67/LeetCode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
+| [3516-design-neighbor-sum-service](https://github.com/Akshayy67/LeetCode/tree/master/3516-design-neighbor-sum-service) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Akshayy67/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Akshayy67/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3639-zero-array-transformation-i](https://github.com/Akshayy67/LeetCode/tree/master/3639-zero-array-transformation-i) |
@@ -325,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Akshayy67/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Akshayy67/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Akshayy67/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3516-design-neighbor-sum-service](https://github.com/Akshayy67/LeetCode/tree/master/3516-design-neighbor-sum-service) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Akshayy67/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Akshayy67/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Akshayy67/LeetCode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
@@ -520,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2454-largest-local-values-in-a-matrix](https://github.com/Akshayy67/LeetCode/tree/master/2454-largest-local-values-in-a-matrix) |
 | [2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/Akshayy67/LeetCode/tree/master/2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
 | [2662-check-knight-tour-configuration](https://github.com/Akshayy67/LeetCode/tree/master/2662-check-knight-tour-configuration) |
+| [3516-design-neighbor-sum-service](https://github.com/Akshayy67/LeetCode/tree/master/3516-design-neighbor-sum-service) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Akshayy67/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Akshayy67/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3797-design-spreadsheet](https://github.com/Akshayy67/LeetCode/tree/master/3797-design-spreadsheet) |
@@ -638,6 +641,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0449-serialize-and-deserialize-bst](https://github.com/Akshayy67/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0460-lfu-cache](https://github.com/Akshayy67/LeetCode/tree/master/0460-lfu-cache) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Akshayy67/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [3516-design-neighbor-sum-service](https://github.com/Akshayy67/LeetCode/tree/master/3516-design-neighbor-sum-service) |
 | [3797-design-spreadsheet](https://github.com/Akshayy67/LeetCode/tree/master/3797-design-spreadsheet) |
 ## Binary Indexed Tree
 |  |
@@ -784,6 +788,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2411-spiral-matrix-iv](https://github.com/Akshayy67/LeetCode/tree/master/2411-spiral-matrix-iv) |
 | [2479-meeting-rooms-iii](https://github.com/Akshayy67/LeetCode/tree/master/2479-meeting-rooms-iii) |
 | [2662-check-knight-tour-configuration](https://github.com/Akshayy67/LeetCode/tree/master/2662-check-knight-tour-configuration) |
+| [3516-design-neighbor-sum-service](https://github.com/Akshayy67/LeetCode/tree/master/3516-design-neighbor-sum-service) |
 | [3566-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/Akshayy67/LeetCode/tree/master/3566-find-the-sequence-of-strings-appeared-on-the-screen) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Akshayy67/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3893-generate-tag-for-video-caption](https://github.com/Akshayy67/LeetCode/tree/master/3893-generate-tag-for-video-caption) |
