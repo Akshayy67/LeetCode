@@ -247,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2594-count-pairs-of-similar-strings](https://github.com/Akshayy67/LeetCode/tree/master/2594-count-pairs-of-similar-strings) |
 | [2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/Akshayy67/LeetCode/tree/master/2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
 | [2662-check-knight-tour-configuration](https://github.com/Akshayy67/LeetCode/tree/master/2662-check-knight-tour-configuration) |
+| [2689-rearranging-fruits](https://github.com/Akshayy67/LeetCode/tree/master/2689-rearranging-fruits) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Akshayy67/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2855-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Akshayy67/LeetCode/tree/master/2855-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Akshayy67/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2479-meeting-rooms-iii](https://github.com/Akshayy67/LeetCode/tree/master/2479-meeting-rooms-iii) |
 | [2480-find-subarrays-with-equal-sum](https://github.com/Akshayy67/LeetCode/tree/master/2480-find-subarrays-with-equal-sum) |
 | [2594-count-pairs-of-similar-strings](https://github.com/Akshayy67/LeetCode/tree/master/2594-count-pairs-of-similar-strings) |
+| [2689-rearranging-fruits](https://github.com/Akshayy67/LeetCode/tree/master/2689-rearranging-fruits) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Akshayy67/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Akshayy67/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Akshayy67/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -479,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2479-meeting-rooms-iii](https://github.com/Akshayy67/LeetCode/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Akshayy67/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Akshayy67/LeetCode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [2689-rearranging-fruits](https://github.com/Akshayy67/LeetCode/tree/master/2689-rearranging-fruits) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Akshayy67/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Akshayy67/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Akshayy67/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -694,6 +697,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Akshayy67/LeetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/Akshayy67/LeetCode/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Akshayy67/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2689-rearranging-fruits](https://github.com/Akshayy67/LeetCode/tree/master/2689-rearranging-fruits) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Akshayy67/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Akshayy67/LeetCode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Akshayy67/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
