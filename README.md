@@ -857,6 +857,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Database
 |  |
 | ------- |
+| [0175-combine-two-tables](https://github.com/Akshayy67/LeetCode/tree/master/0175-combine-two-tables) |
 | [1179-game-play-analysis-i](https://github.com/Akshayy67/LeetCode/tree/master/1179-game-play-analysis-i) |
 ## Doubly-Linked List
 |  |
