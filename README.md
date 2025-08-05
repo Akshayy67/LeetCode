@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2469-longest-subsequence-with-limited-sum](https://github.com/Akshayy67/LeetCode/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Akshayy67/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Akshayy67/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
+| [3790-fruits-into-baskets-ii](https://github.com/Akshayy67/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Array
 |  |
 | ------- |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Akshayy67/LeetCode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Akshayy67/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Akshayy67/LeetCode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
+| [3790-fruits-into-baskets-ii](https://github.com/Akshayy67/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 | [3797-design-spreadsheet](https://github.com/Akshayy67/LeetCode/tree/master/3797-design-spreadsheet) |
 | [3819-count-covered-buildings](https://github.com/Akshayy67/LeetCode/tree/master/3819-count-covered-buildings) |
 ## Hash Table
@@ -663,6 +665,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0307-range-sum-query-mutable](https://github.com/Akshayy67/LeetCode/tree/master/0307-range-sum-query-mutable) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Akshayy67/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Akshayy67/LeetCode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
+| [3790-fruits-into-baskets-ii](https://github.com/Akshayy67/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -769,6 +772,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Akshayy67/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [3790-fruits-into-baskets-ii](https://github.com/Akshayy67/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Trie
 |  |
 | ------- |
@@ -801,6 +805,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3516-design-neighbor-sum-service](https://github.com/Akshayy67/LeetCode/tree/master/3516-design-neighbor-sum-service) |
 | [3566-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/Akshayy67/LeetCode/tree/master/3566-find-the-sequence-of-strings-appeared-on-the-screen) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Akshayy67/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3790-fruits-into-baskets-ii](https://github.com/Akshayy67/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 | [3893-generate-tag-for-video-caption](https://github.com/Akshayy67/LeetCode/tree/master/3893-generate-tag-for-video-caption) |
 ## Counting
 |  |
