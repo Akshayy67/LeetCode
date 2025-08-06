@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Akshayy67/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Akshayy67/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3790-fruits-into-baskets-ii](https://github.com/Akshayy67/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/Akshayy67/LeetCode/tree/master/3791-fruits-into-baskets-iii) |
 ## Array
 |  |
 | ------- |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Akshayy67/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Akshayy67/LeetCode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3790-fruits-into-baskets-ii](https://github.com/Akshayy67/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/Akshayy67/LeetCode/tree/master/3791-fruits-into-baskets-iii) |
 | [3797-design-spreadsheet](https://github.com/Akshayy67/LeetCode/tree/master/3797-design-spreadsheet) |
 | [3819-count-covered-buildings](https://github.com/Akshayy67/LeetCode/tree/master/3819-count-covered-buildings) |
 ## Hash Table
@@ -666,6 +668,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Akshayy67/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Akshayy67/LeetCode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3790-fruits-into-baskets-ii](https://github.com/Akshayy67/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/Akshayy67/LeetCode/tree/master/3791-fruits-into-baskets-iii) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -773,6 +776,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Akshayy67/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [3790-fruits-into-baskets-ii](https://github.com/Akshayy67/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/Akshayy67/LeetCode/tree/master/3791-fruits-into-baskets-iii) |
 ## Trie
 |  |
 | ------- |
