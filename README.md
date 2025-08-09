@@ -455,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0142-linked-list-cycle-ii](https://github.com/Akshayy67/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/Akshayy67/LeetCode/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/Akshayy67/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0295-find-median-from-data-stream](https://github.com/Akshayy67/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/Akshayy67/LeetCode/tree/master/0344-reverse-string) |
 | [0647-palindromic-substrings](https://github.com/Akshayy67/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0875-longest-mountain-in-array](https://github.com/Akshayy67/LeetCode/tree/master/0875-longest-mountain-in-array) |
@@ -477,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0075-sort-colors](https://github.com/Akshayy67/LeetCode/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/Akshayy67/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Akshayy67/LeetCode/tree/master/0268-missing-number) |
+| [0295-find-median-from-data-stream](https://github.com/Akshayy67/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Akshayy67/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0594-longest-harmonious-subsequence](https://github.com/Akshayy67/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0692-top-k-frequent-words](https://github.com/Akshayy67/LeetCode/tree/master/0692-top-k-frequent-words) |
@@ -659,6 +661,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0146-lru-cache](https://github.com/Akshayy67/LeetCode/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/Akshayy67/LeetCode/tree/master/0155-min-stack) |
+| [0295-find-median-from-data-stream](https://github.com/Akshayy67/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Akshayy67/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0303-range-sum-query-immutable](https://github.com/Akshayy67/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/Akshayy67/LeetCode/tree/master/0307-range-sum-query-mutable) |
@@ -856,6 +859,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/Akshayy67/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Akshayy67/LeetCode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Akshayy67/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0692-top-k-frequent-words](https://github.com/Akshayy67/LeetCode/tree/master/0692-top-k-frequent-words) |
@@ -912,4 +916,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0826-soup-servings](https://github.com/Akshayy67/LeetCode/tree/master/0826-soup-servings) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/Akshayy67/LeetCode/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
