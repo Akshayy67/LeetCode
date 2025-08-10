@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0449-serialize-and-deserialize-bst](https://github.com/Akshayy67/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Akshayy67/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Akshayy67/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [0907-koko-eating-bananas](https://github.com/Akshayy67/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [0923-super-egg-drop](https://github.com/Akshayy67/LeetCode/tree/master/0923-super-egg-drop) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Akshayy67/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Akshayy67/LeetCode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Akshayy67/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0895-shortest-path-to-get-all-keys](https://github.com/Akshayy67/LeetCode/tree/master/0895-shortest-path-to-get-all-keys) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/Akshayy67/LeetCode/tree/master/0902-minimum-number-of-refueling-stops) |
+| [0907-koko-eating-bananas](https://github.com/Akshayy67/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Akshayy67/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/Akshayy67/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [0944-smallest-range-i](https://github.com/Akshayy67/LeetCode/tree/master/0944-smallest-range-i) |
