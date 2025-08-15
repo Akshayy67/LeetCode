@@ -2,24 +2,17 @@ class Solution {
     public int[][] merge(int[][] intervals) {
         Arrays.sort(intervals,(a,b)->a[0]-b[0]);  
         ArrayList<int[]> list= new ArrayList<>();
-        boolean[] visited= new boolean[intervals.length];
-        for(int i=0;i<intervals.length;i++){
-            if(visited[i]==true){
-                continue;
+        int[] dummy= intervals[0];
+        for(int i=1;i<intervals.length;i++){
+            if(intervals[i][0]<=dummy[1]){
+                dummy[1]=Math.max(dummy[1],intervals[i][1]);
             }
-            visited[i]=true;
-            for(int j=i+1;j<intervals.length;j++){
-                if(visited[j]==true){
-                    continue;
-                }
-                if(intervals[i][1]>=intervals[j][0]){
-                    // intervals[i][0]=Math.min(intervals[i][0],intervals[j][0]);
-                    intervals[i][1]=Math.max(intervals[i][1],intervals[j][1]);
-                    visited[j]=true;
-                }
+            else{
+                list.add(new int[] {dummy[0],dummy[1]});
+                dummy=intervals[i];
             }
-            list.add(intervals[i]);
         }
+        list.add(dummy);
         int[][] result= new int[list.size()][2];
         for(int i=0;i<list.size();i++){
             result[i][0]=list.get(i)[0];
@@ -29,10 +22,11 @@ class Solution {
     }
 }
 
-// 0--[1-3]-
-// 1---[2-6]-i
-// 2--[8-10]
-// 3--[15-18]  
 
-// 1-max(3,6)
+// // 0--[1-3]
+// // 1---[2-6] 
+// // 2--[8-10]  
+// // 3--[15-18]  -i 
 
+// reulslt=[1,6] [8,10]
+// [15,18]
