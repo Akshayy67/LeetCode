@@ -593,6 +593,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0365-water-and-jug-problem](https://github.com/Akshayy67/LeetCode/tree/master/0365-water-and-jug-problem) |
 | [0797-rabbits-in-forest](https://github.com/Akshayy67/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/Akshayy67/LeetCode/tree/master/0826-soup-servings) |
+| [0867-new-21-game](https://github.com/Akshayy67/LeetCode/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/Akshayy67/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [0923-super-egg-drop](https://github.com/Akshayy67/LeetCode/tree/master/0923-super-egg-drop) |
 | [0944-smallest-range-i](https://github.com/Akshayy67/LeetCode/tree/master/0944-smallest-range-i) |
@@ -642,6 +643,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0239-sliding-window-maximum](https://github.com/Akshayy67/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Akshayy67/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0594-longest-harmonious-subsequence](https://github.com/Akshayy67/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+| [0867-new-21-game](https://github.com/Akshayy67/LeetCode/tree/master/0867-new-21-game) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Akshayy67/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0940-fruit-into-baskets](https://github.com/Akshayy67/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/Akshayy67/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
@@ -677,6 +679,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0518-coin-change-ii](https://github.com/Akshayy67/LeetCode/tree/master/0518-coin-change-ii) |
 | [0647-palindromic-substrings](https://github.com/Akshayy67/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0826-soup-servings](https://github.com/Akshayy67/LeetCode/tree/master/0826-soup-servings) |
+| [0867-new-21-game](https://github.com/Akshayy67/LeetCode/tree/master/0867-new-21-game) |
 | [0875-longest-mountain-in-array](https://github.com/Akshayy67/LeetCode/tree/master/0875-longest-mountain-in-array) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/Akshayy67/LeetCode/tree/master/0902-minimum-number-of-refueling-stops) |
 | [0923-super-egg-drop](https://github.com/Akshayy67/LeetCode/tree/master/0923-super-egg-drop) |
@@ -978,6 +981,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0826-soup-servings](https://github.com/Akshayy67/LeetCode/tree/master/0826-soup-servings) |
+| [0867-new-21-game](https://github.com/Akshayy67/LeetCode/tree/master/0867-new-21-game) |
 ## Data Stream
 |  |
 | ------- |
