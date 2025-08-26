@@ -8,7 +8,7 @@ class Solution {
             if(d>max){
                 result=area;
                 max=d;
-                System.out.println(d+" "+result);
+                // System.out.println(d+" "+result);
             }else if(d==max){
                 result=Math.max(result,area);
             }
