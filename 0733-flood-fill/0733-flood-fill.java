@@ -1,6 +1,7 @@
 class Solution {
     int[][] directions = {{-1,0},{0,1},{1,0},{0,-1}};
     public int[][] floodFill(int[][] image, int sr, int sc, int color) {
+        if(image[sr][sc]==color) return image;
         fill(image,sr,sc,image[sr][sc]);
         image[sr][sc]=-1;
         for(int i=0;i<image.length;i++){
