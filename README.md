@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0234-palindrome-linked-list](https://github.com/Akshayy67/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Akshayy67/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Akshayy67/LeetCode/tree/master/0328-odd-even-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/Akshayy67/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [0460-lfu-cache](https://github.com/Akshayy67/LeetCode/tree/master/0460-lfu-cache) |
 | [0908-middle-of-the-linked-list](https://github.com/Akshayy67/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [1072-next-greater-node-in-linked-list](https://github.com/Akshayy67/LeetCode/tree/master/1072-next-greater-node-in-linked-list) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0150-evaluate-reverse-polish-notation](https://github.com/Akshayy67/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Akshayy67/LeetCode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/Akshayy67/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/Akshayy67/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [0456-132-pattern](https://github.com/Akshayy67/LeetCode/tree/master/0456-132-pattern) |
 | [0739-daily-temperatures](https://github.com/Akshayy67/LeetCode/tree/master/0739-daily-temperatures) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Akshayy67/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
@@ -609,6 +611,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0326-power-of-three](https://github.com/Akshayy67/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Akshayy67/LeetCode/tree/master/0342-power-of-four) |
 | [0365-water-and-jug-problem](https://github.com/Akshayy67/LeetCode/tree/master/0365-water-and-jug-problem) |
+| [0445-add-two-numbers-ii](https://github.com/Akshayy67/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [0797-rabbits-in-forest](https://github.com/Akshayy67/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/Akshayy67/LeetCode/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/Akshayy67/LeetCode/tree/master/0867-new-21-game) |
