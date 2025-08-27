@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0033-search-in-rotated-sorted-array](https://github.com/Akshayy67/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0041-first-missing-positive](https://github.com/Akshayy67/LeetCode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Akshayy67/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0047-permutations-ii](https://github.com/Akshayy67/LeetCode/tree/master/0047-permutations-ii) |
 | [0056-merge-intervals](https://github.com/Akshayy67/LeetCode/tree/master/0056-merge-intervals) |
 | [0064-minimum-path-sum](https://github.com/Akshayy67/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Akshayy67/LeetCode/tree/master/0073-set-matrix-zeroes) |
@@ -457,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Akshayy67/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Akshayy67/LeetCode/tree/master/0022-generate-parentheses) |
+| [0047-permutations-ii](https://github.com/Akshayy67/LeetCode/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/Akshayy67/LeetCode/tree/master/0077-combinations) |
 | [0079-word-search](https://github.com/Akshayy67/LeetCode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Akshayy67/LeetCode/tree/master/0090-subsets-ii) |
@@ -502,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Akshayy67/LeetCode/tree/master/0015-3sum) |
+| [0047-permutations-ii](https://github.com/Akshayy67/LeetCode/tree/master/0047-permutations-ii) |
 | [0056-merge-intervals](https://github.com/Akshayy67/LeetCode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Akshayy67/LeetCode/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/Akshayy67/LeetCode/tree/master/0148-sort-list) |
