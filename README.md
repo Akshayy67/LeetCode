@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0594-longest-harmonious-subsequence](https://github.com/Akshayy67/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Akshayy67/LeetCode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0692-top-k-frequent-words](https://github.com/Akshayy67/LeetCode/tree/master/0692-top-k-frequent-words) |
+| [0720-longest-word-in-dictionary](https://github.com/Akshayy67/LeetCode/tree/master/0720-longest-word-in-dictionary) |
 | [0724-find-pivot-index](https://github.com/Akshayy67/LeetCode/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/Akshayy67/LeetCode/tree/master/0739-daily-temperatures) |
 | [0797-rabbits-in-forest](https://github.com/Akshayy67/LeetCode/tree/master/0797-rabbits-in-forest) |
@@ -334,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0560-subarray-sum-equals-k](https://github.com/Akshayy67/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/Akshayy67/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0692-top-k-frequent-words](https://github.com/Akshayy67/LeetCode/tree/master/0692-top-k-frequent-words) |
+| [0720-longest-word-in-dictionary](https://github.com/Akshayy67/LeetCode/tree/master/0720-longest-word-in-dictionary) |
 | [0797-rabbits-in-forest](https://github.com/Akshayy67/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0900-reordered-power-of-2](https://github.com/Akshayy67/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/Akshayy67/LeetCode/tree/master/0940-fruit-into-baskets) |
@@ -404,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0551-student-attendance-record-i](https://github.com/Akshayy67/LeetCode/tree/master/0551-student-attendance-record-i) |
 | [0647-palindromic-substrings](https://github.com/Akshayy67/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0692-top-k-frequent-words](https://github.com/Akshayy67/LeetCode/tree/master/0692-top-k-frequent-words) |
+| [0720-longest-word-in-dictionary](https://github.com/Akshayy67/LeetCode/tree/master/0720-longest-word-in-dictionary) |
 | [0812-rotate-string](https://github.com/Akshayy67/LeetCode/tree/master/0812-rotate-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Akshayy67/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Akshayy67/LeetCode/tree/master/1058-lexicographically-smallest-equivalent-string) |
@@ -515,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Akshayy67/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0594-longest-harmonious-subsequence](https://github.com/Akshayy67/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0692-top-k-frequent-words](https://github.com/Akshayy67/LeetCode/tree/master/0692-top-k-frequent-words) |
+| [0720-longest-word-in-dictionary](https://github.com/Akshayy67/LeetCode/tree/master/0720-longest-word-in-dictionary) |
 | [0900-reordered-power-of-2](https://github.com/Akshayy67/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [1019-squares-of-a-sorted-array](https://github.com/Akshayy67/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Akshayy67/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -864,6 +868,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Akshayy67/LeetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0472-concatenated-words](https://github.com/Akshayy67/LeetCode/tree/master/0472-concatenated-words) |
 | [0692-top-k-frequent-words](https://github.com/Akshayy67/LeetCode/tree/master/0692-top-k-frequent-words) |
+| [0720-longest-word-in-dictionary](https://github.com/Akshayy67/LeetCode/tree/master/0720-longest-word-in-dictionary) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Akshayy67/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/Akshayy67/LeetCode/tree/master/1826-maximum-xor-with-an-element-from-array) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Akshayy67/LeetCode/tree/master/2079-delete-duplicate-folders-in-system) |
