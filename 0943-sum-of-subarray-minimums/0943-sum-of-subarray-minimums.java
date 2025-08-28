@@ -7,7 +7,7 @@ class Solution {
         for(int i=0;i<arr.length;i++){
             long next_range=ns[i]-i;
             long prev_range=i-ps[i];
-            System.out.println(next_range+" "+prev_range);
+            // System.out.println(next_range+" "+prev_range);
             ans=(ans+next_range*prev_range*arr[i])%mod;
         }
         return (int) ans;
