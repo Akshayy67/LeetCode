@@ -11,37 +11,35 @@ public class Codec {
 
     // Encodes a tree to a single string.
     public String serialize(TreeNode root) {
-        StringBuilder path= new StringBuilder();
-        helper(root,path);
-        return path.toString();
+        StringBuilder str= new StringBuilder();
+        shelper(root,str);
+        return str.toString();
     }
-    public void helper(TreeNode root,StringBuilder path){
+    public void shelper(TreeNode root,StringBuilder str){
         if(root==null){
-            path.append("#$");
-            return ;
+            str.append("#,");
+            return;
         }
-        path.append(root.val+"$");
-        helper(root.left,path);
-        helper(root.right,path);
+        str.append(root.val).append(",");
+        shelper(root.left,str);
+        shelper(root.right,str);
     }
 
     // Decodes your encoded data to tree.
-    int idx=0;
     public TreeNode deserialize(String data) {
-        String[] nodes=data.split("\\$");
-        int idx=0;
-        return build(nodes);
+        String[] strs=data.split(",");
+        return dhelper(strs,new int[] {0});
     }
-    public TreeNode build(String[] data){
-        if(idx>=data.length || data[idx].equals("#")){
-            idx++;
+    public TreeNode dhelper(String[] data,int[] idx){
+        if(data[idx[0]].equals("#")){
+            idx[0]++;
             return null;
         }
-        TreeNode cur=new TreeNode(Integer.parseInt(data[idx]));
-        idx=idx+1;
-        cur.left=build(data);
-        cur.right=build(data);
-        return cur;
+        TreeNode root=new TreeNode(Integer.parseInt(data[idx[0]]));
+        idx[0]++;
+        root.left=dhelper(data,idx);
+        root.right=dhelper(data,idx);
+        return root;
     }
 }
 
