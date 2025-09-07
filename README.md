@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Akshayy67/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0071-simplify-path](https://github.com/Akshayy67/LeetCode/tree/master/0071-simplify-path) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Akshayy67/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/Akshayy67/LeetCode/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Akshayy67/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -407,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0038-count-and-say](https://github.com/Akshayy67/LeetCode/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/Akshayy67/LeetCode/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/Akshayy67/LeetCode/tree/master/0049-group-anagrams) |
+| [0071-simplify-path](https://github.com/Akshayy67/LeetCode/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/Akshayy67/LeetCode/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/Akshayy67/LeetCode/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/Akshayy67/LeetCode/tree/master/0093-restore-ip-addresses) |
