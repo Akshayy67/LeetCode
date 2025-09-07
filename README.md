@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0143-reorder-list](https://github.com/Akshayy67/LeetCode/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Akshayy67/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Akshayy67/LeetCode/tree/master/0155-min-stack) |
+| [0224-basic-calculator](https://github.com/Akshayy67/LeetCode/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/Akshayy67/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/Akshayy67/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [0456-132-pattern](https://github.com/Akshayy67/LeetCode/tree/master/0456-132-pattern) |
@@ -417,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0139-word-break](https://github.com/Akshayy67/LeetCode/tree/master/0139-word-break) |
 | [0212-word-search-ii](https://github.com/Akshayy67/LeetCode/tree/master/0212-word-search-ii) |
 | [0214-shortest-palindrome](https://github.com/Akshayy67/LeetCode/tree/master/0214-shortest-palindrome) |
+| [0224-basic-calculator](https://github.com/Akshayy67/LeetCode/tree/master/0224-basic-calculator) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Akshayy67/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Akshayy67/LeetCode/tree/master/0318-maximum-product-of-word-lengths) |
 | [0344-reverse-string](https://github.com/Akshayy67/LeetCode/tree/master/0344-reverse-string) |
@@ -633,6 +635,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0060-permutation-sequence](https://github.com/Akshayy67/LeetCode/tree/master/0060-permutation-sequence) |
 | [0070-climbing-stairs](https://github.com/Akshayy67/LeetCode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Akshayy67/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0224-basic-calculator](https://github.com/Akshayy67/LeetCode/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/Akshayy67/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Akshayy67/LeetCode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Akshayy67/LeetCode/tree/master/0326-power-of-three) |
@@ -1005,6 +1008,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0024-swap-nodes-in-pairs](https://github.com/Akshayy67/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0060-permutation-sequence](https://github.com/Akshayy67/LeetCode/tree/master/0060-permutation-sequence) |
 | [0143-reorder-list](https://github.com/Akshayy67/LeetCode/tree/master/0143-reorder-list) |
+| [0224-basic-calculator](https://github.com/Akshayy67/LeetCode/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/Akshayy67/LeetCode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Akshayy67/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/Akshayy67/LeetCode/tree/master/0326-power-of-three) |
