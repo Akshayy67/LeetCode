@@ -1,84 +1,73 @@
-class LLNode{
-    int k,v;
-    LLNode next,prev;
-    public LLNode(int k,int v){
-        this.v=v;
-        this.k=k;
+class LNode{
+    int key,value;
+    LNode prev,next;
+    public LNode(int key,int value){
+        this.key=key;
+        this.value=value;
     }
 }
-
-class CDLL{
-    LLNode head=null;
-    int cap;
-    Map<Integer,LLNode> mp = new HashMap<>();
-    CDLL(int cap){
-        this.cap=cap;
+class CDLLNode{
+    LNode head;
+    Map<Integer,LNode> mp;
+    int capacity;
+    public CDLLNode(int capacity){
+        this.capacity=capacity;
+        mp= new HashMap<>();
     }
-
-    void insert(int key,int val){
-       LLNode nn ;
-       if(mp.containsKey(key)){
-            nn=mp.get(key);
-            nn.v=val;
-            head=moveBegin(nn);
-       }
-       else{
-            nn=new LLNode(key,val);
-            mp.put(key,nn);
-            head= insertBegin(nn);
-            if(mp.size()>cap) delete();
-       }
-    }
-
-    void delete(){
-        mp.remove(head.prev.k);
-        head.prev=head.prev.prev;
-        head.prev.next=head;
-    }
-
-    LLNode insertBegin(LLNode node){
-        if(head==null){
-            node.next=node;
-            node.prev=node;
-            return node;
-        }
-        node.next=head;
-        node.prev=head.prev;
-        head.prev.next=node;
-        head.prev=node;
-        return node;
-    }
-
-    LLNode moveBegin(LLNode node){
-        if(node==head) return node;
-        node.prev.next=node.next;
-        node.next.prev= node.prev;
-        return insertBegin(node);
-    }
-
-    int get(int key){
+    public void insert(int key,int val){
         if(mp.containsKey(key)){
-            head=moveBegin(mp.get(key));
-            return mp.get(key).v;
+            delete(key);
         }
-        return -1;
+        if(mp.size()==capacity){
+            delete(head.prev.key);
+        }
+        LNode nn = new LNode(key,val);
+        mp.put(key,nn);
+        if(head==null){
+            nn.next=nn;
+            nn.prev=nn;
+            head=nn;
+            return;
+        }
+        nn.next=head;
+        nn.prev=head.prev;
+        head.prev.next=nn;
+        head.prev=nn;
+        head=nn;
     }
-
-
+    public void delete(int key){
+        LNode node=mp.get(key);
+        if(node==null) return;
+        if(node.next==node){
+            head=null;
+            mp.remove(key);
+            return;
+        }
+        node.next.prev=node.prev;
+        node.prev.next=node.next;
+        if(head==node) head=node.next;
+        mp.remove(key);
+    }
+    public int get(int key){
+        if(!mp.containsKey(key)) return -1;
+        int val=mp.get(key).value;
+        delete(key);
+        insert(key,val);
+        return val;
+    }
 }
-
 class LRUCache {
-    CDLL obj ;
+    CDLLNode lru;
     public LRUCache(int capacity) {
-        obj= new CDLL(capacity);
+        lru= new CDLLNode(capacity);
     }
     
     public int get(int key) {
-        return obj.get(key);
+        return lru.get(key);
     }
     
     public void put(int key, int value) {
-        obj.insert(key,value);
+        lru.insert(key,value);
     }
 }
 
