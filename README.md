@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Akshayy67/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Akshayy67/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0513-find-bottom-left-tree-value](https://github.com/Akshayy67/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Akshayy67/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Akshayy67/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Akshayy67/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Akshayy67/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0449-serialize-and-deserialize-bst](https://github.com/Akshayy67/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0472-concatenated-words](https://github.com/Akshayy67/LeetCode/tree/master/0472-concatenated-words) |
 | [0513-find-bottom-left-tree-value](https://github.com/Akshayy67/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Akshayy67/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Akshayy67/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Akshayy67/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/Akshayy67/LeetCode/tree/master/0733-flood-fill) |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Akshayy67/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Akshayy67/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0513-find-bottom-left-tree-value](https://github.com/Akshayy67/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Akshayy67/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Akshayy67/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Akshayy67/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Akshayy67/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
@@ -173,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Akshayy67/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Akshayy67/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0456-132-pattern](https://github.com/Akshayy67/LeetCode/tree/master/0456-132-pattern) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Akshayy67/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Akshayy67/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Akshayy67/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0907-koko-eating-bananas](https://github.com/Akshayy67/LeetCode/tree/master/0907-koko-eating-bananas) |
@@ -653,6 +657,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0365-water-and-jug-problem](https://github.com/Akshayy67/LeetCode/tree/master/0365-water-and-jug-problem) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Akshayy67/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0513-find-bottom-left-tree-value](https://github.com/Akshayy67/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Akshayy67/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Akshayy67/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Akshayy67/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/Akshayy67/LeetCode/tree/master/0733-flood-fill) |
