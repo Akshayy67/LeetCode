@@ -14,26 +14,18 @@
  * }
  */
 class Solution {
-    TreeNode prev=null,start=null;
+    int ans=0;
+    int count=1,k;
     public int kthSmallest(TreeNode root, int k) {
-        TreeNode dummy= new TreeNode(0);
-        inord(root);
-        while(k-->1){
-            start=start.right;
-        }
-        return start.val;
+        this.k=k;
+        helper(root);
+        return ans;
     }
-    public void inord(TreeNode root){
+    public void helper(TreeNode root){
         if(root==null) return;
-        inord(root.left);
-        if(prev==null) {
-            prev=root;
-            start=root;
-        }
-        else{
-             prev.right=root;
-            prev=prev.right;
-        }
-        inord(root.right);
+        helper(root.left);
+        if(count==k) ans=root.val;
+        count++;
+        helper(root.right);
     }
 }
