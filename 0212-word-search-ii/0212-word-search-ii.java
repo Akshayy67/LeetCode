@@ -1,11 +1,11 @@
 class TNode{
     TNode[] children= new TNode[26];
-    boolean isEOW;
+    boolean isEOW=false;
 }
 class Trie{
     TNode root= new TNode();
     public void insert(String s){
-        TNode cur= root;
+        TNode cur=root;
         for(char c:s.toCharArray()){
             int idx=c-'a';
             if(cur.children[idx]==null) cur.children[idx]=new TNode();
@@ -13,56 +13,54 @@ class Trie{
         }
         cur.isEOW=true;
     }
-    public boolean search(StringBuilder s,Set<String> st){
-        boolean flag=true;
+    public boolean search(String s,Set<String> st){
         TNode cur=root;
-        for(int i=0;i<s.length();i++){
-            char c=s.charAt(i);
+        for(char c:s.toCharArray()){
             int idx=c-'a';
             if(cur.children[idx]==null) return false;
             cur=cur.children[idx];
         }
-        if(cur.isEOW) st.add(s.toString());
+        if(cur.isEOW) st.add(s);
         return true;
     }
 }
 class Solution {
-    Trie trie= new Trie();
-    int[][] directions= {{1,0},{0,-1},{-1,0},{0,1}};
-    Set<String> result;
+    int[][] directions= {{-1,0},{0,1},{1,0},{0,-1}};
+    Trie trie;
+    Set<String> st;
     public List<String> findWords(char[][] board, String[] words) {
-        result= new HashSet<>();
+        this.trie=new Trie();
+        st= new HashSet<>();
+        for(String word:words) trie.insert(word);
         int n=board.length,m=board[0].length;
-        for(String s:words) trie.insert(s);
         boolean[][] visited= new boolean[n][m];
         StringBuilder path= new StringBuilder();
         for(int i=0;i<n;i++){
             for(int j=0;j<m;j++){
-                visited[i][j]=true;
                 path.append(board[i][j]);
-                backTrack(board,path,i,j,visited);
+                visited[i][j]=true;
+                backTrack(board,visited,i,j,path);
                 visited[i][j]=false;
-                path.setLength(0);
+                path.setLength(path.length()-1);
             }
         }
-        return new ArrayList<>(result);
+        return new ArrayList<>(st);
     }
-    public void backTrack(char[][] board,StringBuilder path,int i,int j,boolean[][] visited){
-        if(trie.search(path,result)){
+    public void backTrack(char[][] board,boolean[][] visited,int i, int j,StringBuilder path){
+        if(trie.search(path.toString(),st)){
             for(int[] dir:directions){
-                int ni=i+dir[0];
-                int nj=j+dir[1];
+                int ni=i+dir[0],nj=j+dir[1];
                 if(valid(board,ni,nj) && !visited[ni][nj]){
-                    visited[ni][nj]=true;
                     path.append(board[ni][nj]);
-                    backTrack(board,path,ni,nj,visited);
+                    visited[ni][nj]=true;
+                    backTrack(board,visited,ni,nj,path);
                     path.setLength(path.length()-1);
                     visited[ni][nj]=false;
                 }
             }
         }
     }
-    public boolean valid(char[][] board,int i,int j){
+    public boolean valid(char[][] board,int i, int j){
         return i>=0 && j>=0 && i<board.length && j<board[0].length;
     }
 }
