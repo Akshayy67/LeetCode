@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0200-number-of-islands](https://github.com/Akshayy67/LeetCode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Akshayy67/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Akshayy67/LeetCode/tree/master/0210-course-schedule-ii) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Akshayy67/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0226-invert-binary-tree](https://github.com/Akshayy67/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Akshayy67/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Akshayy67/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -491,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0131-palindrome-partitioning](https://github.com/Akshayy67/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Akshayy67/LeetCode/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/Akshayy67/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Akshayy67/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/Akshayy67/LeetCode/tree/master/0212-word-search-ii) |
 | [0214-shortest-palindrome](https://github.com/Akshayy67/LeetCode/tree/master/0214-shortest-palindrome) |
 | [0224-basic-calculator](https://github.com/Akshayy67/LeetCode/tree/master/0224-basic-calculator) |
@@ -879,6 +881,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0155-min-stack](https://github.com/Akshayy67/LeetCode/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/Akshayy67/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0208-implement-trie-prefix-tree](https://github.com/Akshayy67/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Akshayy67/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0295-find-median-from-data-stream](https://github.com/Akshayy67/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Akshayy67/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0303-range-sum-query-immutable](https://github.com/Akshayy67/LeetCode/tree/master/0303-range-sum-query-immutable) |
@@ -1032,6 +1035,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0139-word-break](https://github.com/Akshayy67/LeetCode/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/Akshayy67/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Akshayy67/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/Akshayy67/LeetCode/tree/master/0212-word-search-ii) |
 | [0386-lexicographical-numbers](https://github.com/Akshayy67/LeetCode/tree/master/0386-lexicographical-numbers) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Akshayy67/LeetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
