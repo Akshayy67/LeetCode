@@ -1,35 +1,31 @@
-class Pair{
-    String s;
-    int count;
-    public Pair(String s,int count){
-        this.s=s;
-        this.count=count;
-    }
-}
 class Solution {
     public int ladderLength(String beginWord, String endWord, List<String> wordList) {
-        Queue<Pair> q= new LinkedList<>();
-        Set<String> st= new HashSet<>();
-        for(String str:wordList) st.add(str);
-        q.add(new Pair(beginWord,1));
+        Queue<String> q= new LinkedList<>();
+        Set<String> list= new HashSet<>();
+        for(String s:wordList) list.add(s);
+        if(!list.contains(endWord)) return 0;
+        int steps=1;
+        q.add(beginWord);
         while(!q.isEmpty()){
-            Pair pair=q.poll();
-            String cur=pair.s;
-            char[] chars=cur.toCharArray();
-            for(int i=0;i<chars.length;i++){
-                char original=chars[i];
-                for(char c='a';c<='z';c++){
-                    if(c==original) continue;
-                    chars[i]=c;
-                    String temp= new String(chars);
-                    if(st.contains(temp)){
-                        if(temp.equals(endWord)) return pair.count+1;
-                        q.add(new Pair(temp,pair.count+1));
-                        st.remove(temp); 
+            int size=q.size();
+            while(size-->0){
+                String cur=q.poll();
+                char[] chars= cur.toCharArray();
+                for(int i=0;i<chars.length;i++){
+                    char org=chars[i];
+                    for(char c='a';c<='z';c++){
+                        chars[i]=c;
+                        String next= new String(chars);
+                        if(next.equals(endWord)) return steps+1;
+                        if(list.contains(next)){
+                            q.add(next);
+                        }
+                        list.remove(next);
                     }
-                }
-                chars[i]=original;
-            } 
+                    chars[i]=org;
+                } 
+            }
+            steps++;
         }
         return 0;
     }
