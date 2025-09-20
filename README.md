@@ -222,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0037-sudoku-solver](https://github.com/Akshayy67/LeetCode/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/Akshayy67/LeetCode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Akshayy67/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0046-permutations](https://github.com/Akshayy67/LeetCode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Akshayy67/LeetCode/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Akshayy67/LeetCode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Akshayy67/LeetCode/tree/master/0056-merge-intervals) |
@@ -574,6 +575,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Akshayy67/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Akshayy67/LeetCode/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/Akshayy67/LeetCode/tree/master/0037-sudoku-solver) |
+| [0046-permutations](https://github.com/Akshayy67/LeetCode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Akshayy67/LeetCode/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/Akshayy67/LeetCode/tree/master/0077-combinations) |
 | [0079-word-search](https://github.com/Akshayy67/LeetCode/tree/master/0079-word-search) |
