@@ -779,6 +779,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1448-maximum-69-number](https://github.com/Akshayy67/LeetCode/tree/master/1448-maximum-69-number) |
 | [1500-count-largest-group](https://github.com/Akshayy67/LeetCode/tree/master/1500-count-largest-group) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Akshayy67/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [1642-water-bottles](https://github.com/Akshayy67/LeetCode/tree/master/1642-water-bottles) |
 | [1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/Akshayy67/LeetCode/tree/master/1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
 | [2031-egg-drop-with-2-eggs-and-n-floors](https://github.com/Akshayy67/LeetCode/tree/master/2031-egg-drop-with-2-eggs-and-n-floors) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/Akshayy67/LeetCode/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
@@ -1074,6 +1075,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0043-multiply-strings](https://github.com/Akshayy67/LeetCode/tree/master/0043-multiply-strings) |
 | [0498-diagonal-traverse](https://github.com/Akshayy67/LeetCode/tree/master/0498-diagonal-traverse) |
+| [1642-water-bottles](https://github.com/Akshayy67/LeetCode/tree/master/1642-water-bottles) |
 | [2048-build-array-from-permutation](https://github.com/Akshayy67/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Akshayy67/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Akshayy67/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
