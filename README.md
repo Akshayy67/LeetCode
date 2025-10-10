@@ -387,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3242-count-elements-with-maximum-frequency](https://github.com/Akshayy67/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Akshayy67/LeetCode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Akshayy67/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Akshayy67/LeetCode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Akshayy67/LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Akshayy67/LeetCode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3516-design-neighbor-sum-service](https://github.com/Akshayy67/LeetCode/tree/master/3516-design-neighbor-sum-service) |
@@ -825,6 +826,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Akshayy67/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/Akshayy67/LeetCode/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2529-range-product-queries-of-powers](https://github.com/Akshayy67/LeetCode/tree/master/2529-range-product-queries-of-powers) |
+| [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Akshayy67/LeetCode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3618-find-the-original-typed-string-ii](https://github.com/Akshayy67/LeetCode/tree/master/3618-find-the-original-typed-string-ii) |
 | [3639-zero-array-transformation-i](https://github.com/Akshayy67/LeetCode/tree/master/3639-zero-array-transformation-i) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Akshayy67/LeetCode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
