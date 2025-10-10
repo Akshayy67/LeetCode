@@ -1,14 +1,11 @@
 class Solution {
     public int findMin(int[] nums) {
-        int l=0,r=nums.length-1,mid=0;
-        int ans=0;
-        while(l<r){
-             mid=(l+r)/2;
-            // eleminate the left part as it is sorted minimum is compuslorily on right half
-            if(nums[r]<nums[mid]) l=mid+1; 
-            //eliminate right part
-            else r=mid;
+        int low=0,high=nums.length-1,mid=0;
+        while(low<high){
+            mid=(low+high)/2;
+            if(nums[mid]>nums[high]) low=mid+1;
+            else high=mid;
         }
-        return nums[l];
+        return nums[low];
     }
 }
