@@ -506,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0038-count-and-say](https://github.com/Akshayy67/LeetCode/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/Akshayy67/LeetCode/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/Akshayy67/LeetCode/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/Akshayy67/LeetCode/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/Akshayy67/LeetCode/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/Akshayy67/LeetCode/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/Akshayy67/LeetCode/tree/master/0076-minimum-window-substring) |
@@ -775,6 +776,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0029-divide-two-integers](https://github.com/Akshayy67/LeetCode/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/Akshayy67/LeetCode/tree/master/0043-multiply-strings) |
 | [0060-permutation-sequence](https://github.com/Akshayy67/LeetCode/tree/master/0060-permutation-sequence) |
+| [0067-add-binary](https://github.com/Akshayy67/LeetCode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Akshayy67/LeetCode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Akshayy67/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/Akshayy67/LeetCode/tree/master/0224-basic-calculator) |
@@ -1023,6 +1025,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Akshayy67/LeetCode/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/Akshayy67/LeetCode/tree/master/0067-add-binary) |
 | [0090-subsets-ii](https://github.com/Akshayy67/LeetCode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Akshayy67/LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Akshayy67/LeetCode/tree/master/0137-single-number-ii) |
@@ -1107,6 +1110,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Akshayy67/LeetCode/tree/master/0043-multiply-strings) |
+| [0067-add-binary](https://github.com/Akshayy67/LeetCode/tree/master/0067-add-binary) |
 | [0498-diagonal-traverse](https://github.com/Akshayy67/LeetCode/tree/master/0498-diagonal-traverse) |
 | [1642-water-bottles](https://github.com/Akshayy67/LeetCode/tree/master/1642-water-bottles) |
 | [2048-build-array-from-permutation](https://github.com/Akshayy67/LeetCode/tree/master/2048-build-array-from-permutation) |
