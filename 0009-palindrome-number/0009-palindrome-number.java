@@ -1,6 +1,6 @@
 class Solution {
     public boolean isPalindrome(int x) {
-        StringBuilder str= new StringBuilder().append(x);
-        return str.toString().equals(str.reverse().toString());
+       String num=String.valueOf(x);
+       return new StringBuilder(num).reverse().toString().equals(num);
     }
 }
