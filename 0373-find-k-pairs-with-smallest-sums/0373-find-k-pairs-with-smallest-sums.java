@@ -1,23 +1,22 @@
 class Solution {
     public List<List<Integer>> kSmallestPairs(int[] nums1, int[] nums2, int k) {
-        List<List<Integer>> result= new ArrayList<>();
-        PriorityQueue<int[]> pq= new PriorityQueue<>((a,b)->Long.compare( (long)nums1[a[0]]+nums2[a[1]],(long)nums1[b[0]]+nums2[b[1]])) ;
+        PriorityQueue<int[]> pq= new PriorityQueue<>((a,b)->a[0]-b[0]);
         Set<String> st= new HashSet<>();
-        st.add("0,0");
-        pq.add(new int[] {0,0});
-        while(!pq.isEmpty() && result.size()<k){
+        pq.offer(new int[] {nums1[0]+nums2[0],0,0});
+        st.add("0 0");
+        List<List<Integer>> result=new ArrayList<>();
+        while(result.size()<k){
             int[] cur=pq.poll();
-            int i=cur[0],j=cur[1];
-            result.add(Arrays.asList(nums1[cur[0]] ,nums2[cur[1]]));
-            String t1=(i+1)+","+j;
-            if(i+1<nums1.length && !st.contains(t1)){
-                st.add(t1);
-                pq.add(new int[] {i+1,j});
+            int i=cur[1];
+            int j=cur[2];
+            result.add(Arrays.asList(nums1[i],nums2[j]));
+            if(i+1<nums1.length && !st.contains((i+1)+" "+j)){
+                st.add((i+1)+" "+j);
+                pq.offer(new int[] {nums1[i+1]+nums2[j],i+1,j});
             }
-            t1=(i)+","+(j+1);
-            if(j+1<nums2.length && !st.contains(t1)){
-                st.add(t1);
-                pq.add(new int[] {i,j+1});
+            if(j+1<nums2.length && !st.contains(i+" "+(j+1))){
+                st.add(i+" "+(j+1));
+                pq.offer(new int[] {nums1[i]+nums2[j+1],i,j+1});
             }
         }
         return result;
