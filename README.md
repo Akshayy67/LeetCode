@@ -777,6 +777,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0012-integer-to-roman](https://github.com/Akshayy67/LeetCode/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/Akshayy67/LeetCode/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/Akshayy67/LeetCode/tree/master/0043-multiply-strings) |
+| [0050-powx-n](https://github.com/Akshayy67/LeetCode/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/Akshayy67/LeetCode/tree/master/0060-permutation-sequence) |
 | [0066-plus-one](https://github.com/Akshayy67/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Akshayy67/LeetCode/tree/master/0067-add-binary) |
@@ -1196,6 +1197,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0002-add-two-numbers](https://github.com/Akshayy67/LeetCode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Akshayy67/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Akshayy67/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
+| [0050-powx-n](https://github.com/Akshayy67/LeetCode/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/Akshayy67/LeetCode/tree/master/0060-permutation-sequence) |
 | [0143-reorder-list](https://github.com/Akshayy67/LeetCode/tree/master/0143-reorder-list) |
 | [0224-basic-calculator](https://github.com/Akshayy67/LeetCode/tree/master/0224-basic-calculator) |
