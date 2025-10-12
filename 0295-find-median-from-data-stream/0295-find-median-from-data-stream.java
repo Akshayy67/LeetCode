@@ -1,20 +1,20 @@
 class MedianFinder {
     PriorityQueue<Integer> left;
     PriorityQueue<Integer> right;
-    double curmed=0;
+    double curmed=0.0;
     public MedianFinder() {
         left= new PriorityQueue<>(Collections.reverseOrder());
         right= new PriorityQueue<>();
     }
     
     public void addNum(int num) {
-        if(curmed>num){
-            if(left.size()>right.size()) right.add(left.poll());
-            left.add(num);
+        if(num>curmed){
+            if(right.size()>left.size()) left.offer(right.poll());
+            right.offer(num);
         }
         else{
-            if(right.size()>left.size()) left.add(right.poll());
-            right.add(num);
+            if(left.size()>right.size()) right.offer(left.poll());
+            left.offer(num);
         }
         if(left.size()==right.size()) curmed=(left.peek()+right.peek())/2.0;
         else if(left.size()>right.size()) curmed=left.peek();
