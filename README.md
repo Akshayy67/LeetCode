@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Akshayy67/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Akshayy67/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Akshayy67/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3466-number-of-subarrays-with-and-value-of-k](https://github.com/Akshayy67/LeetCode/tree/master/3466-number-of-subarrays-with-and-value-of-k) |
 | [3790-fruits-into-baskets-ii](https://github.com/Akshayy67/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Akshayy67/LeetCode/tree/master/3791-fruits-into-baskets-iii) |
 ## Array
@@ -399,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Akshayy67/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Akshayy67/LeetCode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Akshayy67/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3466-number-of-subarrays-with-and-value-of-k](https://github.com/Akshayy67/LeetCode/tree/master/3466-number-of-subarrays-with-and-value-of-k) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Akshayy67/LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Akshayy67/LeetCode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3516-design-neighbor-sum-service](https://github.com/Akshayy67/LeetCode/tree/master/3516-design-neighbor-sum-service) |
@@ -968,6 +970,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/Akshayy67/LeetCode/tree/master/0307-range-sum-query-mutable) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Akshayy67/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [3466-number-of-subarrays-with-and-value-of-k](https://github.com/Akshayy67/LeetCode/tree/master/3466-number-of-subarrays-with-and-value-of-k) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Akshayy67/LeetCode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3790-fruits-into-baskets-ii](https://github.com/Akshayy67/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Akshayy67/LeetCode/tree/master/3791-fruits-into-baskets-iii) |
@@ -1072,6 +1075,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2529-range-product-queries-of-powers](https://github.com/Akshayy67/LeetCode/tree/master/2529-range-product-queries-of-powers) |
 | [2594-count-pairs-of-similar-strings](https://github.com/Akshayy67/LeetCode/tree/master/2594-count-pairs-of-similar-strings) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/Akshayy67/LeetCode/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
+| [3466-number-of-subarrays-with-and-value-of-k](https://github.com/Akshayy67/LeetCode/tree/master/3466-number-of-subarrays-with-and-value-of-k) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Akshayy67/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Akshayy67/LeetCode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Union Find
