@@ -1,20 +1,20 @@
 class Solution {
-    int[][] dp;
+    String s1,s2;
+    Integer[][] dp;
     public int minDistance(String word1, String word2) {
-        dp= new int[word1.length()][word2.length()];
-        for(int[] d:dp) Arrays.fill(d,-1);
-        return helper(word1,word2,0,0);
+        this.s1=word1;
+        this.s2=word2;
+        dp= new Integer[s1.length()][s2.length()];
+        return helper(0,0);
     }
-    public int helper(String word1,String word2,int i,int j){
-        if(i==word1.length()) return word2.length()-j;
-        if(j==word2.length()) return word1.length()-i;
-        if(dp[i][j]!=-1) return dp[i][j];
-        if(word1.charAt(i)==word2.charAt(j)){
-            return helper(word1,word2,i+1,j+1);
-        }
-        int insert=1+helper(word1,word2,i,j+1);
-        int delete=1+helper(word1,word2,i+1,j);
-        int replace=1+helper(word1,word2,i+1,j+1);
+    public int helper(int i,int j){
+        if(j==s2.length()) return s1.length()-i;
+        if(i==s1.length()) return s2.length()-j;
+        if(dp[i][j]!=null) return dp[i][j];
+        if(s1.charAt(i)==s2.charAt(j)) return helper(i+1,j+1);
+        int insert=1+helper(i,j+1);
+        int delete=1+helper(i+1,j);
+        int replace=1+helper(i+1,j+1);
         return dp[i][j]=Math.min(insert,Math.min(delete,replace));
     }
 }
