@@ -783,6 +783,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/Akshayy67/LeetCode/tree/master/2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Akshayy67/LeetCode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2662-check-knight-tour-configuration](https://github.com/Akshayy67/LeetCode/tree/master/2662-check-knight-tour-configuration) |
+| [3239-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/Akshayy67/LeetCode/tree/master/3239-minimum-number-of-operations-to-make-x-and-y-equal) |
 ## Matrix
 |  |
 | ------- |
@@ -983,6 +984,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/Akshayy67/LeetCode/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3106-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/Akshayy67/LeetCode/tree/master/3106-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Akshayy67/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3239-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/Akshayy67/LeetCode/tree/master/3239-minimum-number-of-operations-to-make-x-and-y-equal) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Akshayy67/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Akshayy67/LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Akshayy67/LeetCode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
@@ -1188,6 +1190,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0140-word-break-ii](https://github.com/Akshayy67/LeetCode/tree/master/0140-word-break-ii) |
 | [1013-fibonacci-number](https://github.com/Akshayy67/LeetCode/tree/master/1013-fibonacci-number) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/Akshayy67/LeetCode/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
+| [3239-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/Akshayy67/LeetCode/tree/master/3239-minimum-number-of-operations-to-make-x-and-y-equal) |
 ## Simulation
 |  |
 | ------- |
