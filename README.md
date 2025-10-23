@@ -338,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1370-count-number-of-nice-subarrays](https://github.com/Akshayy67/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Akshayy67/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Akshayy67/LeetCode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Akshayy67/LeetCode/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Akshayy67/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Akshayy67/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Akshayy67/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
@@ -778,6 +779,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0820-find-eventual-safe-states](https://github.com/Akshayy67/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [0895-shortest-path-to-get-all-keys](https://github.com/Akshayy67/LeetCode/tree/master/0895-shortest-path-to-get-all-keys) |
 | [0945-snakes-and-ladders](https://github.com/Akshayy67/LeetCode/tree/master/0945-snakes-and-ladders) |
+| [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Akshayy67/LeetCode/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Akshayy67/LeetCode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Akshayy67/LeetCode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2439-longest-cycle-in-a-graph](https://github.com/Akshayy67/LeetCode/tree/master/2439-longest-cycle-in-a-graph) |
@@ -807,6 +809,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0945-snakes-and-ladders](https://github.com/Akshayy67/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [1022-unique-paths-iii](https://github.com/Akshayy67/LeetCode/tree/master/1022-unique-paths-iii) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Akshayy67/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Akshayy67/LeetCode/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Akshayy67/LeetCode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Akshayy67/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Akshayy67/LeetCode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
