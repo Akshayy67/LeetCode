@@ -598,6 +598,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/Akshayy67/LeetCode/tree/master/2168-check-if-numbers-are-ascending-in-a-sentence) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Akshayy67/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Akshayy67/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [2325-number-of-ways-to-select-buildings](https://github.com/Akshayy67/LeetCode/tree/master/2325-number-of-ways-to-select-buildings) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Akshayy67/LeetCode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2594-count-pairs-of-similar-strings](https://github.com/Akshayy67/LeetCode/tree/master/2594-count-pairs-of-similar-strings) |
 | [2887-sort-vowels-in-a-string](https://github.com/Akshayy67/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
@@ -910,6 +911,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1833-find-the-highest-altitude](https://github.com/Akshayy67/LeetCode/tree/master/1833-find-the-highest-altitude) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/Akshayy67/LeetCode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Akshayy67/LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
+| [2325-number-of-ways-to-select-buildings](https://github.com/Akshayy67/LeetCode/tree/master/2325-number-of-ways-to-select-buildings) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Akshayy67/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2449-maximum-number-of-robots-within-budget](https://github.com/Akshayy67/LeetCode/tree/master/2449-maximum-number-of-robots-within-budget) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/Akshayy67/LeetCode/tree/master/2469-longest-subsequence-with-limited-sum) |
@@ -998,6 +1000,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2031-egg-drop-with-2-eggs-and-n-floors](https://github.com/Akshayy67/LeetCode/tree/master/2031-egg-drop-with-2-eggs-and-n-floors) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/Akshayy67/LeetCode/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Akshayy67/LeetCode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
+| [2325-number-of-ways-to-select-buildings](https://github.com/Akshayy67/LeetCode/tree/master/2325-number-of-ways-to-select-buildings) |
 | [2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/Akshayy67/LeetCode/tree/master/2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
 | [2855-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Akshayy67/LeetCode/tree/master/2855-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/Akshayy67/LeetCode/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
