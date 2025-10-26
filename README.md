@@ -352,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1612-avoid-flood-in-the-city](https://github.com/Akshayy67/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [1656-count-good-triplets](https://github.com/Akshayy67/LeetCode/tree/master/1656-count-good-triplets) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Akshayy67/LeetCode/tree/master/1669-minimum-cost-to-cut-a-stick) |
+| [1690-maximum-length-of-subarray-with-positive-product](https://github.com/Akshayy67/LeetCode/tree/master/1690-maximum-length-of-subarray-with-positive-product) |
 | [1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/Akshayy67/LeetCode/tree/master/1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Akshayy67/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Akshayy67/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -995,6 +996,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1503-reducing-dishes](https://github.com/Akshayy67/LeetCode/tree/master/1503-reducing-dishes) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Akshayy67/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Akshayy67/LeetCode/tree/master/1669-minimum-cost-to-cut-a-stick) |
+| [1690-maximum-length-of-subarray-with-positive-product](https://github.com/Akshayy67/LeetCode/tree/master/1690-maximum-length-of-subarray-with-positive-product) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Akshayy67/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/Akshayy67/LeetCode/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2031-egg-drop-with-2-eggs-and-n-floors](https://github.com/Akshayy67/LeetCode/tree/master/2031-egg-drop-with-2-eggs-and-n-floors) |
@@ -1083,6 +1085,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1503-reducing-dishes](https://github.com/Akshayy67/LeetCode/tree/master/1503-reducing-dishes) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Akshayy67/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1612-avoid-flood-in-the-city](https://github.com/Akshayy67/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
+| [1690-maximum-length-of-subarray-with-positive-product](https://github.com/Akshayy67/LeetCode/tree/master/1690-maximum-length-of-subarray-with-positive-product) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Akshayy67/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1829-maximum-units-on-a-truck](https://github.com/Akshayy67/LeetCode/tree/master/1829-maximum-units-on-a-truck) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/Akshayy67/LeetCode/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
