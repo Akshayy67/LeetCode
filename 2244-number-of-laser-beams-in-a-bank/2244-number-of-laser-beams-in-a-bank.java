@@ -1,6 +1,6 @@
 class Solution {
     public int numberOfBeams(String[] bank) {
-        List<Integer> list= new ArrayList<>();
+        int result=0,prev=0;
         for(String s:bank){
             int count=0;
             for(char c:s.toCharArray()){
@@ -8,11 +8,8 @@ class Solution {
                      count++;
                 }
             }
-            if(count>0) list.add(count);
-        }
-        int result=0;
-        for(int i=1;i<list.size();i++){
-            result+=list.get(i)*list.get(i-1);
+            result+=prev*count;
+            if(count>0) prev=count;
         }
         return result;
     }
