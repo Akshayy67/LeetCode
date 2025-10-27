@@ -381,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2227-sum-of-subarray-ranges](https://github.com/Akshayy67/LeetCode/tree/master/2227-sum-of-subarray-ranges) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Akshayy67/LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Akshayy67/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/Akshayy67/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Akshayy67/LeetCode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Akshayy67/LeetCode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Akshayy67/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -601,6 +602,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Akshayy67/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/Akshayy67/LeetCode/tree/master/2168-check-if-numbers-are-ascending-in-a-sentence) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Akshayy67/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/Akshayy67/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Akshayy67/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2325-number-of-ways-to-select-buildings](https://github.com/Akshayy67/LeetCode/tree/master/2325-number-of-ways-to-select-buildings) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Akshayy67/LeetCode/tree/master/2346-largest-3-same-digit-number-in-string) |
@@ -826,6 +828,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Akshayy67/LeetCode/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Akshayy67/LeetCode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Akshayy67/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/Akshayy67/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Akshayy67/LeetCode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2411-spiral-matrix-iv](https://github.com/Akshayy67/LeetCode/tree/master/2411-spiral-matrix-iv) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/Akshayy67/LeetCode/tree/master/2454-largest-local-values-in-a-matrix) |
@@ -887,6 +890,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/Akshayy67/LeetCode/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Akshayy67/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/Akshayy67/LeetCode/tree/master/2202-sum-of-k-mirror-numbers) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/Akshayy67/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Akshayy67/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Akshayy67/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2481-strictly-palindromic-number](https://github.com/Akshayy67/LeetCode/tree/master/2481-strictly-palindromic-number) |
