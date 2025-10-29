@@ -1,10 +1,11 @@
 class Solution {
     public int smallestNumber(int n) {
-        String s=Integer.toBinaryString(n);
-        char[] chars=s.toCharArray();
-        for(int i=0;i<s.length();i++){
-            chars[i]='1';
+        int result=0;
+        while(n>0){
+            result<<=1;
+            result|=1;
+            n>>=1;
         }
-        return Integer.parseInt(new String(chars),2);
+        return result;
     }
 }
