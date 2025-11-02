@@ -13,8 +13,8 @@ class Solution {
                         int nj=j+dir[1];
                         while(isValid(grid,ni,nj)){
                             grid[ni][nj]=2;
-                            ni+=(k==0)?-1:(k==2?1:0);
-                            nj+=(k==1)?1:(k==3?-1:0);
+                            ni+=dir[0];
+                            nj+=dir[1];
                         }
                     }
                 }
