@@ -437,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Akshayy67/LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Akshayy67/LeetCode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3516-design-neighbor-sum-service](https://github.com/Akshayy67/LeetCode/tree/master/3516-design-neighbor-sum-service) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Akshayy67/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Akshayy67/LeetCode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Akshayy67/LeetCode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Akshayy67/LeetCode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
@@ -537,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Akshayy67/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Akshayy67/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3516-design-neighbor-sum-service](https://github.com/Akshayy67/LeetCode/tree/master/3516-design-neighbor-sum-service) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Akshayy67/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Akshayy67/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Akshayy67/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Akshayy67/LeetCode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
@@ -974,6 +976,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Akshayy67/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Akshayy67/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Akshayy67/LeetCode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Akshayy67/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Akshayy67/LeetCode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Akshayy67/LeetCode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Dynamic Programming
@@ -1333,6 +1336,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Akshayy67/LeetCode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2449-maximum-number-of-robots-within-budget](https://github.com/Akshayy67/LeetCode/tree/master/2449-maximum-number-of-robots-within-budget) |
 | [2479-meeting-rooms-iii](https://github.com/Akshayy67/LeetCode/tree/master/2479-meeting-rooms-iii) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Akshayy67/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Akshayy67/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Akshayy67/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Shortest Path
