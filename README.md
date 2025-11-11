@@ -302,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Akshayy67/LeetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0456-132-pattern](https://github.com/Akshayy67/LeetCode/tree/master/0456-132-pattern) |
 | [0472-concatenated-words](https://github.com/Akshayy67/LeetCode/tree/master/0472-concatenated-words) |
+| [0474-ones-and-zeroes](https://github.com/Akshayy67/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0498-diagonal-traverse](https://github.com/Akshayy67/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0502-ipo](https://github.com/Akshayy67/LeetCode/tree/master/0502-ipo) |
 | [0518-coin-change-ii](https://github.com/Akshayy67/LeetCode/tree/master/0518-coin-change-ii) |
@@ -591,6 +592,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0449-serialize-and-deserialize-bst](https://github.com/Akshayy67/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0459-repeated-substring-pattern](https://github.com/Akshayy67/LeetCode/tree/master/0459-repeated-substring-pattern) |
 | [0472-concatenated-words](https://github.com/Akshayy67/LeetCode/tree/master/0472-concatenated-words) |
+| [0474-ones-and-zeroes](https://github.com/Akshayy67/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0516-longest-palindromic-subsequence](https://github.com/Akshayy67/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0551-student-attendance-record-i](https://github.com/Akshayy67/LeetCode/tree/master/0551-student-attendance-record-i) |
 | [0647-palindromic-substrings](https://github.com/Akshayy67/LeetCode/tree/master/0647-palindromic-substrings) |
@@ -1011,6 +1013,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0300-longest-increasing-subsequence](https://github.com/Akshayy67/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Akshayy67/LeetCode/tree/master/0322-coin-change) |
 | [0472-concatenated-words](https://github.com/Akshayy67/LeetCode/tree/master/0472-concatenated-words) |
+| [0474-ones-and-zeroes](https://github.com/Akshayy67/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0516-longest-palindromic-subsequence](https://github.com/Akshayy67/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Akshayy67/LeetCode/tree/master/0518-coin-change-ii) |
 | [0647-palindromic-substrings](https://github.com/Akshayy67/LeetCode/tree/master/0647-palindromic-substrings) |
