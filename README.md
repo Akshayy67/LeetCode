@@ -408,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Akshayy67/LeetCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2411-spiral-matrix-iv](https://github.com/Akshayy67/LeetCode/tree/master/2411-spiral-matrix-iv) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Akshayy67/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
+| [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Akshayy67/LeetCode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2449-maximum-number-of-robots-within-budget](https://github.com/Akshayy67/LeetCode/tree/master/2449-maximum-number-of-robots-within-budget) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/Akshayy67/LeetCode/tree/master/2454-largest-local-values-in-a-matrix) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/Akshayy67/LeetCode/tree/master/2469-longest-subsequence-with-limited-sum) |
@@ -859,6 +860,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Akshayy67/LeetCode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Akshayy67/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2411-spiral-matrix-iv](https://github.com/Akshayy67/LeetCode/tree/master/2411-spiral-matrix-iv) |
+| [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Akshayy67/LeetCode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/Akshayy67/LeetCode/tree/master/2454-largest-local-values-in-a-matrix) |
 | [2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/Akshayy67/LeetCode/tree/master/2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
 | [2662-check-knight-tour-configuration](https://github.com/Akshayy67/LeetCode/tree/master/2662-check-knight-tour-configuration) |
@@ -1051,6 +1053,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2205-find-good-days-to-rob-the-bank](https://github.com/Akshayy67/LeetCode/tree/master/2205-find-good-days-to-rob-the-bank) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Akshayy67/LeetCode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2325-number-of-ways-to-select-buildings](https://github.com/Akshayy67/LeetCode/tree/master/2325-number-of-ways-to-select-buildings) |
+| [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Akshayy67/LeetCode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/Akshayy67/LeetCode/tree/master/2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
 | [2855-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Akshayy67/LeetCode/tree/master/2855-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/Akshayy67/LeetCode/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
