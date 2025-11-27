@@ -437,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3242-count-elements-with-maximum-frequency](https://github.com/Akshayy67/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Akshayy67/LeetCode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Akshayy67/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Akshayy67/LeetCode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Akshayy67/LeetCode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Akshayy67/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3466-number-of-subarrays-with-and-value-of-k](https://github.com/Akshayy67/LeetCode/tree/master/3466-number-of-subarrays-with-and-value-of-k) |
@@ -545,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Akshayy67/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Akshayy67/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Akshayy67/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Akshayy67/LeetCode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Akshayy67/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3516-design-neighbor-sum-service](https://github.com/Akshayy67/LeetCode/tree/master/3516-design-neighbor-sum-service) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Akshayy67/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -962,6 +964,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2449-maximum-number-of-robots-within-budget](https://github.com/Akshayy67/LeetCode/tree/master/2449-maximum-number-of-robots-within-budget) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/Akshayy67/LeetCode/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2529-range-product-queries-of-powers](https://github.com/Akshayy67/LeetCode/tree/master/2529-range-product-queries-of-powers) |
+| [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Akshayy67/LeetCode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Akshayy67/LeetCode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Akshayy67/LeetCode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3618-find-the-original-typed-string-ii](https://github.com/Akshayy67/LeetCode/tree/master/3618-find-the-original-typed-string-ii) |
