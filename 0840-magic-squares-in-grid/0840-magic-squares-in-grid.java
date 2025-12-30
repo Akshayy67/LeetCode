@@ -20,7 +20,7 @@ class Solution {
                     for(int nj=j;nj<j+3;nj++){
                         if(grid[ni][nj] < 1  || grid[ni][nj]>9 || ((mask>>grid[ni][nj])&1)==1){
                             maskk=true;
-                            System.out.println(grid[ni][nj]);
+                            // System.out.println(grid[ni][nj]);
                             break;
                         }
                         mask|=(1<<grid[ni][nj]);
