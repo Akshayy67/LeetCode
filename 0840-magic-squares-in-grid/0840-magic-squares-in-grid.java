@@ -29,7 +29,7 @@ class Solution {
                         if(ni-i==(nj-j)) dia1+=grid[ni][nj]; 
                         if (ni+nj-i-j== 2) dia2 += grid[ni][nj];
                     }
-                    if(maskk) continue;
+                    if(maskk) break;
                 }
                 if(maskk) continue;
                 if(rows[0]==15 && rows[1]==15 && rows[2]==15 && cols[0]==15 && cols[1]==15 && cols[2]==15 && dia1==15 && dia2==15) result++;
