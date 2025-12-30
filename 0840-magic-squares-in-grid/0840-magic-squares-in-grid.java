@@ -1,9 +1,9 @@
 class Solution {
     public int numMagicSquaresInside(int[][] grid) {
         int result=0;
-        for(int i=0;i<grid.length;i++){
-            for(int j=0;j<grid[0].length;j++){
-                if(i+3>grid.length || j+3>grid[0].length) continue;
+        for(int i=0;i<grid.length-2;i++){
+            for(int j=0;j<grid[0].length-2;j++){
+                // if(i+3>grid.length || j+3>grid[0].length) continue;
                 // int row1=grid[i][j]+grid[i][j+1]+grid[i][j+2];
                 // int row2=grid[i+1][j]+grid[i+1][j+2]+grid[i+1][j+2];
                 // int row3=grid[i+2][j]+grid[i+2][j+1]+grid[i+2][j+2];
