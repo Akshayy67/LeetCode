@@ -333,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0944-delete-columns-to-make-sorted](https://github.com/Akshayy67/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0945-snakes-and-ladders](https://github.com/Akshayy67/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Akshayy67/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Akshayy67/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/Akshayy67/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [0978-valid-mountain-array](https://github.com/Akshayy67/LeetCode/tree/master/0978-valid-mountain-array) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Akshayy67/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -520,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0840-magic-squares-in-grid](https://github.com/Akshayy67/LeetCode/tree/master/0840-magic-squares-in-grid) |
 | [0900-reordered-power-of-2](https://github.com/Akshayy67/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/Akshayy67/LeetCode/tree/master/0940-fruit-into-baskets) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Akshayy67/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/Akshayy67/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Akshayy67/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Akshayy67/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
